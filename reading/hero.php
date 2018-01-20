@@ -8,11 +8,11 @@ include ('../inc/header.php');
         <img src="../img/individualogist-logo2.png" width="300px">
     </div>
     <div class="page-header">
-        <span class="purple"><span aweber-field="name">Friend</span></span>, Your Archetype Is The <span class="purple"><span aweber-field="archetype">Explorer</span></span>...
+        <span class="purple"><span aweber-field="name">Friend</span></span>, Your Archetype Is The <span class="purple"><span aweber-field="archetype">Hero</span></span>...
         <br>Are You Ready To <span class="purple">Discover The Definitive Truth</span> About Your <span class="purple">Personality?</span>
         <br>All Is Revealed In Your <span class="purple">Personalized Archetypal Introduction.</span>
         <div class="archetype-img">
-          <img src="../img/icons/explorer.png" width="100px">
+          <img src="../img/icons/hero.png" width="100px">
         </div>
     </div>
 
@@ -20,7 +20,7 @@ include ('../inc/header.php');
     <div class="archetype-reading">
         <p>Dear <span aweber-field="name">Friend</span>,</p>
 
-        <p>If you’ve made it here, then congratulations! Because this means that your archetype is the Explorer! But what does this actually mean? Don’t worry, everything you need to know will be on this page. Stick to the end of it and I promise that you’ll <span class="purple">experience something truly magical.</span></p>
+        <p>If you’ve made it here, then congratulations! Because this means that your archetype is the Hero! But what does this actually mean? Don’t worry, everything you need to know will be on this page. Stick to the end of it and I promise that you’ll <span class="purple">experience something truly magical.</span></p>
 
         <p>The Archetypal Identifier that you’ve recently used is designed to help you uncover your personality profile... Or, what we also know as your archetype - an in-depth examination of your entire being...</p>
 
@@ -39,24 +39,27 @@ include ('../inc/header.php');
 
         <p>And of course, you can use it to embark on the life that you've always dreamed of...</p>
 
-        <p>But before we get into that, I want to share with you a little bit about your archetype, The Explorer, and what it means...</p>
+        <p>But before we get into that, I want to share with you a little bit about your archetype, The Hero, and what it means...</p>
 
-        <h2 class="sub-header"><span aweber-field="name">Friend</span>, You Are The Explorer - And This Is <span class="purple">What It Means...</span></h2>
+        <h2 class="sub-header"><span aweber-field="name">Friend</span>, You Are The Hero - And This Is <span class="purple">What It Means...</span></h2>
 
-        <p><span aweber-field="name">Friend</span>, your archetype suggests that you're an adventurer of sorts... A worldly, wandering traveller who belongs to no land. You're constantly on the move, and always <span class="purple">seeking exciting thrills</span> that are far beyond your comfort zone... And yet, ironically, that's where you <span class="purple">feel the most comfortable.</span></p>
+        <p><span aweber-field="name">Friend</span>, your archetype suggests that you're an individual who possess <span class="purple">great mental strength, fortitude, and an unbreakable sense of perseverance.</span> You are never fearful of what the future holds for you, and you're <span class="purple">always willing to step up to challenges</span> of any sort.</p>
 
-        <p>Yes, <span aweber-field="name">Friend</span>... You're a curious, and adventurous individual looking to make your mark on the world. You want to <span class="purple">experience everything</span> that the world has to offer - its magnificent lands, its foreign cultures, and its exciting opportunities.</p>
+        <p>Yes, <span aweber-field="name">Friend</span>... The Hero archetype is best represented through <span class="purple">the essence of sacrifice.</span> Whether it's putting the needs of others in front of your own, or simply taking the initiative to serve the greater good, you're always in the front of the line.</p>
 
-        <p>Based on your archetype, <span aweber-field="name">Friend</span>, your biggest value in life is your sense of freedom. That's because as an Explorer, you're highly energetic, and you're always on the move. You tend to get bored with <span class="purple">mundane and monotonus routines</span> - and you're always looking for a way out.</p>
+        <p>That specific trait about you stems from your deep-seated instincts, <span aweber-field="name">Friend</span>... Instincts that forbid you from retreating in the <span class="purple">face of adversity</span>. Instincts that prevent you from laying still in the face of injustice.</p>
 
-        <p>While others <span class="purple">struggle to feel comfortable</span> in unfamiliar places, you just seem to feel at home in the most distant of lands. That’s because you <span class="purple">envision the world</span> as a singular place – and you understand that each and everyone of us belong to the same home.</p>
+        <p>While others <span class="purple">prefer to sit on the sidelines,</span> that's just not in your interests. That is also why it is often said, that the Hero has <span class="purple">no fears...</span> But let's address that in greater detail as we progress through this Archetypal Introduction.</p>
 
         <!--Insert Archetype Icon-->
-        <img class="img-intext" src="../img/icons/explorer.png">
+        <img class="img-intext" src="../img/icons/hero.png">
 
-        <p>...Your archetype also suggests that you have the tendency to take action before thinking, <span aweber-field="name">Friend</span>... But that does not mean to say that you're thoughtless - in fact, it's quite the contrary. You see, <span aweber-field="name">Friend</span>, you recognize that <span class="purple">thoughts tend to stand in the way of action.</span> And what matters to you, is action.</p>
+        <p><span aweber-field="name">Friend</span>, your archetype also suggests that there is a side of you that's relentless... Relentless in the sense of striving to improve yourself - whether it's your <span class="purple">physical abilities, your mental fortitude, or your emotional resilience.</span> That being said, you're certainly an individual of impressive characteristics - characteristics that are unique to your archetype.</p>
 
-        <p>You're an excellent communicator by nature, <span aweber-field="name">Friend</span>... Your travels and curiosity has equipped you with a repertoire of captivating stories - stories that people absolutely love to hear. You're often <span class="purple">the center of attention</span> - regardless whether you're in a room full of strangers, friends, or loved ones.</p>
+        <p>You seem to exercise selflessness in everything that you do, <span aweber-field="name">Friend</span>... No matter how small or miniscule your actions appear to be, every decision that you make, no matter how small, is always for a <span class="purple">purpose that serves others.</span> And when it comes to making important and difficult decisions, you're <span class="purple">assertive, firm, and steadfast.</p>
+
+          <!---BOOKMARK-->
+
 
         <p><span aweber-field="name">Friend</span>, your archetype also suggests that you're often on the lookout for opportunities that don't necessarily take you out of the country. As long as there's a new experience waiting for you, you're <span class="purple">more than willing to give it a shot.</span> Whether it's an activity, a sport, or even a new restaurant that you've never tried before - <span class="purple">you're always game.</span></p>
 
@@ -70,7 +73,7 @@ include ('../inc/header.php');
 
         <p>That's why the world needs more people like you, <span aweber-field="name">Friend</span>... I have no doubt that you will one day <span class="purple">uncover ground-breaking discoveries,</span> and contribute great things to the world.</p>
 
-        <h2 class="sub-header">As An Explorer, These Are Your Strengths, Tendencies, And Positive Attributes...</h2>
+        <h2 class="sub-header">As A Hero, These Are Your Strengths, Tendencies, And Positive Attributes...</h2>
 
         <p><span aweber-field="name">Friend</span>, despite often being the center of attention, your incessant curiosity about others makes you an individual who's <span class="purple">self-aware and emotionally connected to others.</span> That's because even though people are more than willing to listen to the stories that you share and the images that you portray, <span class="purple">you always know when it's time to shift the limelight to someone else.</span> And that realization is often driven by you wanting to know the <span class="purple">stories of others.</span></p>
 
@@ -91,7 +94,7 @@ include ('../inc/header.php');
 
         <p>You see, <span aweber-field="name">Friend</span> - you have a rather <span class="purple">valiant aura</span>, and a daring approach. You're not one to follow in the footsteps of others, are you, <span aweber-field="name">Friend</span>. Instead, you're the one who paves the way forward - bashing through the bushes like the gallant discoverer that you are. After all, you have to be <span class="purple">a little bit bold</span> in other to explore the unexplored, wouldn't you agree, <span aweber-field="name">Friend</span>?</p>
 
-        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Adventurous Explorer, <span aweber-field="name">Friend</span></h2>
+        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Courageous Hero, <span aweber-field="name">Friend</span></h2>
 
         <p>This portion of your Archetypal Introduction does not seek to scare you, <span aweber-field="name">Friend</span>... But it's best that you be made aware of the <span class="purple">potential challenges</span> that lie ahead of you - or perhaps you've encountered some of these challenges already.</p>
 
@@ -117,7 +120,7 @@ include ('../inc/header.php');
 
         <p>To maximize the abilities of your archetype, <span aweber-field="name">Friend</span>, you must <span class="purple">always be trusting, always be humble, and always be giving.</span> Those are the qualities and lessons that will lead you to your <span class="purple">eventual success.</span></p>
 
-        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As An Explorer, This Is Your Calling...</h2>
+        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As A Hero, This Is Your Calling...</h2>
 
         <p><span aweber-field="name">Friend</span>, you are practically <span class="purple">a chameleon</span> – possessing the uncanny ability to make yourself at home within any social group, or social setting; no matter how foreign. Your charisma and eloquence intrigues people. And at times, it also earns their trust.</p>
 
@@ -129,7 +132,7 @@ include ('../inc/header.php');
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, Here's A Glimpse Into Your <span class="purple">Love Compatibility</span> With Other Archetypes...</h2>
 
-        <img class="love-img" src="../img/love/explorer-love-compatibility.png">
+        <img class="love-img" src="../img/love/hero-love-compatibility.png">
 
         <p><span aweber-field="name">Friend</span>, do you see that chart on top? That little chart over there represents the archetypes that you’re most likely to end up with. Or if you’re already in a committed relationship, there’s a really good chance that your spouse is one of those archetypes.</p>
 
