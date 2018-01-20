@@ -6,4 +6,5 @@
         <p class="small">&copy; Copyright <script>document.write(new Date().getFullYear());</script> | Individualogist.com | All Rights Reserved</p>
 </div>
 </body>
+<script type="text/javascript" src="../js/custom.js"></script>
 </html>

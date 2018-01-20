@@ -377,6 +377,24 @@
     right: 0;
   }
 
+  #archetype-wheel {
+    position: fixed;
+    top:50%; left:0;
+    z-index: -1;
+    filter: opacity(0.9);
+	  background: url("../img/archetype-wheel.png") center center no-repeat;
+	 -webkit-animation:spin 90s linear infinite;
+    -moz-animation:spin 90s linear infinite;
+    animation:spin 90s linear infinite;
+    -moz-transform-origin:center center;
+    -webkit-transform-origin:center center;
+    transform-origin:center center;
+  }
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
     /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
     width: 100%;
@@ -423,6 +441,9 @@ padding: 0 18px;
     content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
     @media only screen and (max-width: 720px) {
+        #archetype-wheel {
+          display: none;
+        }
         .indi-logo img {
           width: 200px !important;
         }
