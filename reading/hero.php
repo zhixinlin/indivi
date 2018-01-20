@@ -153,7 +153,7 @@ include ('../inc/header.php');
         <p>But don’t forget, <span aweber-field="name">Friend</span>, how you perceive yourself <span class="purple">should not be determined by your love life.</span> Romance is merely one, single aspect of life - not the only. It's always best to focus on your own personal growth, because that's the path that you must embark on to lead a rewarding and fulfilled life.</p>
     </div>
 
-    <?php include '../inc/premium.php';?>
+<?php include '../inc/premium.php';?>
   </div>
 <?php include '../inc/footer.php';?>
 </body>

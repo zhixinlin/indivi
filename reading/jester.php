@@ -8,18 +8,18 @@ include ('../inc/header.php');
         <img src="../img/individualogist-logo2.png" width="300px">
     </div>
     <div class="page-header">
-        <span class="purple"><span aweber-field="name">Friend</span></span>, Your Archetype Is The <span class="purple"><span aweber-field="archetype">Innocent</span></span>...
+        <span class="purple"><span aweber-field="name">Friend</span></span>, Your Archetype Is The <span class="purple"><span aweber-field="archetype">Jester</span></span>...
         <br>Are You Ready To <span class="purple">Discover The Definitive Truth</span> About Your <span class="purple">Personality?</span>
         <br>All Is Revealed In Your <span class="purple">Personalized Archetypal Introduction.</span>
         <div class="archetype-img">
-          <img src="../img/icons/innocent.png" width="100px">
+          <img src="../img/icons/jester.png" width="100px">
         </div>
     </div>
 
     <div class="archetype-reading">
         <p>Dear <span aweber-field="name">Friend</span>,</p>
 
-        <p>If you’ve made it here, then congratulations! Because this means that your archetype is the Innocent! But what does this actually mean? Don’t worry, everything you need to know will be on this page. Stick to the end of it and I promise that you’ll <span class="purple">experience something truly magical.</span></p>
+        <p>If you’ve made it here, then congratulations! Because this means that your archetype is the Jester! But what does this actually mean? Don’t worry, everything you need to know will be on this page. Stick to the end of it and I promise that you’ll <span class="purple">experience something truly magical.</span></p>
 
         <p>The Archetypal Identifier that you’ve recently used is designed to help you uncover your personality profile... Or, what we also know as your archetype - an in-depth examination of your entire being...</p>
 
@@ -38,20 +38,20 @@ include ('../inc/header.php');
 
         <p>And of course, you can use it to embark on the life that you've always dreamed of...</p>
 
-        <p>But before we get into that, I want to share with you a little bit about your archetype, The Innocent, and what it means...</p>
+        <p>But before we get into that, I want to share with you a little bit about your archetype, The Jester, and what it means...</p>
 
-        <h2 class="sub-header"><span aweber-field="name">Friend</span>, You Are The Innocent - And This Is <span class="purple">What It Means...</span></h2>
+        <h2 class="sub-header"><span aweber-field="name">Friend</span>, You Are The Jester - And This Is <span class="purple">What It Means...</span></h2>
 
-        <p><span aweber-field="name">Friend</span>, before you dismiss this Archetypal Introduction as nothing but hogwash, you must know that the Innocent archetype is <span class="purple">NOT one that's typically associated with naivety.</span> Truth be told, it is anything but. If you'd like to find out the truth about what the Innocent really resembles, <span class="purple">then please proceed with the rest of this Archetypal Introduction</span> with an open mind, and a willing heart.</p>
+        <p><span aweber-field="name">Friend</span>, before you dismiss this Archetypal Introduction as nothing but hogwash, you must know that the Jester archetype is <span class="purple">NOT one that's typically associated with naivety.</span> Truth be told, it is anything but. If you'd like to find out the truth about what the Innocent really resembles, <span class="purple">then please proceed with the rest of this Archetypal Introduction</span> with an open mind, and a willing heart.</p>
 
-        <p>Yes, <span aweber-field="name">Friend</span>...  The Innocent archetype is best defined by its <span class="purple">sheer positivity, enthusiasim, and optimism.</span> They'reable to interpret any situation in a perspective that's <span class="purple">hopeful, encouraging, and infectious.</span> If you're thinking that there's a lot more to the Innocent archetype than just that, you're exactly right, <span aweber-field="name">Friend</span>!</p>
+        <p>Yes, <span aweber-field="name">Friend</span>...  The Jester archetype is best defined by its <span class="purple">sheer positivity, enthusiasim, and optimism.</span> They'reable to interpret any situation in a perspective that's <span class="purple">hopeful, encouraging, and infectious.</span> If you're thinking that there's a lot more to the Innocent archetype than just that, you're exactly right, <span aweber-field="name">Friend</span>!</p>
 
-        <p>Individuals of the Innocent archetype, including you, tend to see the <span class="purple">silver lining in every cloud</span> and are constantly reminding themselves that there's virtue and a sense of goodness in everything, and every situation. You're always on the <span class="purple">lookout for wisdom and lessons</span> worth learning, no matter how painful your experiences get...</p>
+        <p>Individuals of the Jester archetype, including you, tend to see the <span class="purple">silver lining in every cloud</span> and are constantly reminding themselves that there's virtue and a sense of goodness in everything, and every situation. You're always on the <span class="purple">lookout for wisdom and lessons</span> worth learning, no matter how painful your experiences get...</p>
 
         <p>To you, <span aweber-field="name">Friend</span>, everyone has a story worth listening to, every circumstance holds something worth experiencing, and everything that happens in life,  <span class="purple">happens for a reason.</span> That is a belief; a deep-rooted outlook that makes the Innocent archetype so <span class="purple">remarkable.</p>
 
         <!--Insert Archetype Icon-->
-        <img class="img-intext" src="../img/icons/innocent.png">
+        <img class="img-intext" src="../img/icons/jester.png">
 
         <p><span aweber-field="name">Friend</span>, your archetype also suggests that there is a side of you that's relentless... Relentless in the sense of striving to improve yourself - whether it's your <span class="purple">physical abilities, your mental fortitude, or your emotional resilience.</span> That being said, you're certainly an individual of impressive characteristics - characteristics that are unique to your archetype.</p>
 
@@ -92,7 +92,7 @@ include ('../inc/header.php');
 
         <p>You see, <span aweber-field="name">Friend</span> - you exude an <span class="purple">aura of purity</span>. You trust others just as easily as others are able to place their trust in you. That's because your earnestness really shows through your personality.
 
-        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Virtuous Innocent, <span aweber-field="name">Friend</span></h2>
+        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Virtuous Jester, <span aweber-field="name">Friend</span></h2>
 
         <p>This portion of your Archetypal Introduction does not seek to scare you, <span aweber-field="name">Friend</span>... But it's best that you be made aware of the <span class="purple">potential challenges</span> that lie ahead of you - or perhaps you've encountered some of these challenges already.</p>
 
@@ -118,7 +118,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, advancement and growth are not gifts that are bestowed upon you - they are the fruits of hardwork and labour. And when you take action for your personal growth, your <span class="purple">passage to fulfillment</span> will be revealed to you... All in due time.</p>
 
-        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As An Innocent, This Is Your Calling...</h2>
+        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As A Jester, This Is Your Calling...</h2>
 
         <p><span aweber-field="name">Friend</span>, you are on a quest – a quest for happiness; for joy. And as forementioned, your archetype tends to struggle with finding fulfilment... But with this Archetypal Introduction, there is no doubt that the <span class="purple">end of the tunnel is fast approaching,</span> and you will uncover your path to fulfillment a lot sooner than expected.</p>
 
@@ -130,7 +130,7 @@ include ('../inc/header.php');
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, Here's A Glimpse Into Your <span class="purple">Love Compatibility</span> With Other Archetypes...</h2>
 
-        <img class="love-img" src="../img/love/innocent-love-compatibility.png">
+        <img class="love-img" src="../img/love/jester-love-compatibility.png">
 
         <p><span aweber-field="name">Friend</span>, do you see that chart on top? That little chart over there represents the archetypes that you’re most likely to end up with. Or if you’re already in a committed relationship, there’s a really good chance that your spouse is one of those archetypes.</p>
 
