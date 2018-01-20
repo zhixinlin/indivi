@@ -16,7 +16,6 @@ include ('../inc/header.php');
         </div>
     </div>
 
-
     <div class="archetype-reading">
         <p>Dear <span aweber-field="name">Friend</span>,</p>
 
@@ -58,41 +57,42 @@ include ('../inc/header.php');
 
         <p>You seem to exercise selflessness in everything that you do, <span aweber-field="name">Friend</span>... No matter how small or miniscule your actions appear to be, every decision that you make, no matter how small, is always for a <span class="purple">purpose that serves others.</span> And when it comes to making important and difficult decisions, you're <span class="purple">assertive, firm, and steadfast.</p>
 
-          <!---BOOKMARK-->
+        <p><span aweber-field="name">Friend</span>, your archetype also suggests that you're an individual of <span class="purple">great empathy, and a strong sense of justice.</span> You're intolerant when you encounter unfairness or corruption of any sort, and there's burning desire that drives you to want to do <span class="purple">all forms of prejudice</span>.
 
+        <p>Your instinctive sense of righteousness is constantly pushing you <span class="purple">to be better, to do more, and to try harder</span>...
 
-        <p><span aweber-field="name">Friend</span>, your archetype also suggests that you're often on the lookout for opportunities that don't necessarily take you out of the country. As long as there's a new experience waiting for you, you're <span class="purple">more than willing to give it a shot.</span> Whether it's an activity, a sport, or even a new restaurant that you've never tried before - <span class="purple">you're always game.</span></p>
+        <p>You might not like to admit it, <span aweber-field="name">Friend</span>... But from time to time, you do get worn out. After all, being a hero is certainly not a task for the weak and feeble. It can be <span class="purple">emotionally and physically draining</span> most of the time. As difficult or as impossible as it sounds, you must learn to prioritize your own <span class="purple">rejuvenation,</span> <span aweber=field="name">Friend</span>.
 
-        <p>You might not like to admit it, <span aweber-field="name">Friend</span>... But you're charismatic - at least, more so than the other archetypes. This trait of yours stems from your <span class="purple">willingness to step out of your comfort zone</span> - a trait that's also indicative of your willingness to look silly. And there is nothing more charismatic than someone who <span class="purple">possesses that amount of self-confidence.</span></p>
+        <p>The Hero archetype, <span aweber-field="name">Friend</span>, is also one that strives for greatness. You have a <span class="purple">strong vision</span> of what you want to achieve in your lifetime - a vision that few will comprehend, but many will appreciate... Your <span class="purple">compassion for your fellow man</span> is what ultimately gives you the desire to change the world.</p>
 
-        <p>The Explorer archetype, <span aweber-field="name">Friend</span>, is also one that strives to be different. You prefer to feel and immerse yourself in the most <span class="purple">foreign environments</span> - environments that the other archetypes would prefer to avoid. There's also a side of you that tends to be a little bit of an <span class="purple">adrenaline junkie</span> - it might not be all that obvious, but it definitely exists.</p>
+        <p>You're an individual of <span class="purple">great principles, character, and morals.</span> Unlike the archetypes who tend to struggle with temptations and might struggle differentiating between right and wrong, you always <span class="purple">have a clear idea of what is virtuous.</span></p>
 
-        <p>You're an individual who's<span class="purple">sociable, likeable, and approachable.</span> Unlike the archetypes who are more introverted by nature, any day that you spend <span class="purple">sitting around at home feels like a waste of your time.</span> You'd very much prefer to <span class="purple">be literally anywhere else, doing anything else,</span> instead of being cooped up and alone.</p>
+        <p>You might not be aware of this, <span aweber-field="name">Friend</span>... But your willingness to step up to the plate is <span class="purple">inspiring and encouraging</span> to the people around you - strangers, friends, and loved ones. And because of this, your archetype truly has the capacity to <span class="purple">achieve greatness.</span></p>
 
-        <p>You might not be aware of this, <span aweber-field="name">Friend</span>... But your willingness to try new things is <span class="purple">inspiring and encouraging</span> to the people around you - mostly your peers. And because of this, your archetype truly has the capacity to <span class="purple">achieve greatness.</span></p>
-
-        <p>That's why the world needs more people like you, <span aweber-field="name">Friend</span>... I have no doubt that you will one day <span class="purple">uncover ground-breaking discoveries,</span> and contribute great things to the world.</p>
+        <p>That's why the world needs more people like you, <span aweber-field="name">Friend</span>... I have no doubt that you will one day <span class="purple">make a lasting impact on humanity</span>, and contribute great things to the world.</p>
 
         <h2 class="sub-header">As A Hero, These Are Your Strengths, Tendencies, And Positive Attributes...</h2>
 
-        <p><span aweber-field="name">Friend</span>, despite often being the center of attention, your incessant curiosity about others makes you an individual who's <span class="purple">self-aware and emotionally connected to others.</span> That's because even though people are more than willing to listen to the stories that you share and the images that you portray, <span class="purple">you always know when it's time to shift the limelight to someone else.</span> And that realization is often driven by you wanting to know the <span class="purple">stories of others.</span></p>
+        <p><span aweber-field="name">Friend</span>, you are an individual who is <span class="purple">incredibly grounded.</span> You possess the unique ability to discern right from wrong, and you’re never afraid to put your foot down. You have a great deal to offer to this world. <span aweber-field="name">Friend</span>, you have a number of leadership qualities... Especially since you're someone who's <span class="purple">self-aware, decisive, and somewhat stern.</span> People find themselves <span class="purple">calmed by your presence,</span> knowing that they have someone <span class="purple">reliable and dependable</span> by their side.</p>
 
-        <p>All of that gives rise to the one single attribute that truly resembles the Explorer archetype - your <span class="purple">obsession with experience</span> - an obsession that drives you to <span class="purple">learn, to discover, and to explore.</span></p>
+        <p>But that's not all there is to the Hero archetype, <span aweber-field="name">Friend</span>... This is merely the beginning. As a Hero, you are  <span class="purple">extremely protective of your loved ones.</span> You're not the most expressive person on the planet, but each of your loved ones holds a special place in your heart. You might a little bit too protective at times, but it definitely comes from a good place.</p>
 
-        <p>There's something else about your archetype, <span aweber-field="name">Friend</span>... And you might or might not agree with this... Your archetype, because of your worldly knowledge and self-motivated curiosity, possesses a <span class="purple">deep understanding of human nature and culture.</span> You're likely to be someone who reads people rather well. You know who you can <span class="purple">trust</span>, and who you must <span class="purple">avoid</span> at all costs. </p>
+        <p>There's something else about your archetype, <span aweber-field="name">Friend</span>... You're a lot more domestic than the other archetypes. Your home is your place of rest - a peaceful haven that you retire to at the end of each day - and also, a place where you're <span class="purple">deeply emotionally attached to.</span> And that stems from your <span class="purple">sense of loyalty.</span></p>
 
-        <p>Although, there are times when compassion takes control over your tendencies, <span aweber-field="name">Friend</span>... And that's when you become vulnerable to having your <span class="purple">trust misplaced</span> and taken advantage of.</p>
+        <p><span aweber-field="name">Friend</span>, based on the strengths of your archetype, there is no doubt that you're an individual who makes a protective partner, a caring parent, and a trustworthy friend.</p>
 
         <!--Insert Strength Image-->
         <img class="img-intext" src="../img/strength.png">
 
-        <p>Based on those attributes, <span aweber-field="name">Friend</span>, it's evident that you'll experience the <span class="purple">greatest amount of fulfillment and joy</span> from pursuing a career that will <span class="purple">feed your curiosity</span>, take you outside of the typical confinements of a desk space, and constantly keep you on your toes... Perhaps something outdoors-ish or travel-related.</p>
+        <p><span aweber-field="name">Friend</span>, it's become abundantly clear that you'll experience the <span class="purple">greatest amount of fulfillment and joy</span> from pursuing a career that will <span class="purple">allow you to make difficult decisions, and give you a strong sense of duty...</span></p>
 
-        <p>Beyond that, <span aweber-field="name">Friend</span>, you're also someone who's open-minded. You're very accepting of people who come from <span class="purple">different backgrounds.</span> Your experience with <span class="purple">foreign cultures and environments</span> has exposed you to a variety of circumstances and perspectives, and you're always reminding yourself to be respectful of that.</p>
+        <p>Beyond that, <span aweber-field="name">Friend</span>, you tend to perceive circumstances as either  <span class="purple">black or white</span>, with no gray in between. That particular trait might not sound all that positive, but it's one of the greatest factors that makes you such an <span class="purple">effective decision maker.</span></p>
 
-        <p>That's also because you tend to enjoy things that are a bit <span class="purple">out of the ordinary and venturing out into the unknown</span> - things that individuals belonging to other archetypes would prefer to avoid.</p>
+        <p>In terms of your behaviour around friends and family, you tend to adopt a more <span class="purple">serious, no nonsense type of front.</span> If a conversation does not produce value, then you'd rather not engage in it. You're not the type of person to clown around - you'd very much prefer to invest your time and energy into <span class="purple">productive</span> tasks instead of looking like a fool.</p>
 
-        <p>You see, <span aweber-field="name">Friend</span> - you have a rather <span class="purple">valiant aura</span>, and a daring approach. You're not one to follow in the footsteps of others, are you, <span aweber-field="name">Friend</span>. Instead, you're the one who paves the way forward - bashing through the bushes like the gallant discoverer that you are. After all, you have to be <span class="purple">a little bit bold</span> in other to explore the unexplored, wouldn't you agree, <span aweber-field="name">Friend</span>?</p>
+        <p>You see, <span aweber-field="name">Friend</span> - you have a rather <span class="purple">intense aura</span>. That does not mean to say that it's a bad thing - after all, when it comes to getting things done, you'll always be on the top of everyone's lists, <span aweber-field="name">Friend</span>.</p>
+
+        <p>And yet, all is fair in the realm of Archetypes - where weaknesses can at times be strengths, and likewise, strengths too can quickly turn into weaknesses. And that applies to your archetype of the Hero as well, <span aweber-field="name">Friend</span>.</p>
 
         <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Courageous Hero, <span aweber-field="name">Friend</span></h2>
 
@@ -104,31 +104,33 @@ include ('../inc/header.php');
 
         <p>You see, <span aweber-field="name">Friend</span>, despite your brave frontier, there are fears that reside within your archetype... Deep-seated fears that appear miniscule to others, but appear menacing to you.</p>
 
-        <p>Your archetype tends to be fearful of <span class="purple">commitment,</span> and even anything that resembles it. <span aweber-field="name">Friend</span>... It's  likely that at a certain point in your life, you found the idea of marriage a little bit alien - an idea that just <span class="purple">never made sense to you.</span> That attribute stems from your fear of commitment; commitment of any sort... Whether it's residing in a single place for too long, or remaining in a relationship with one, single person for eternity.</p>
+        <p>Your archetype tends to be fearful of <span class="purple">having others perceive you incorrectly,</span> or even misjudged. Your archetype tends to concern itself with its image... Constantly wondering about what others think of you, whether or not they take a liking to you...
 
-        <p>Of course, there's nothing wrong with being alone, <span aweber-field="name">Friend</span>... But that fear originates from your obsession with new experiences - an obsession that often leads you to <span class="purple">neglect the people closest to you.</span></p>
+        <p>An unhealthy obsession that prevents you from <span class="purple">embarking on something new,</span> or trying something that you've never tried before. You're usually fearful of becoming the <span class="purple">object of ridicule or laughter...</span> That stems from your fear that the strong, dependable impression that you've worked so hard to portray will crumble.</p>
 
-        <p>Don't let that discourage you, <span aweber-field="name">Friend</span>. As long as you're <span class="purple">watchful over how your actions affect others,</span> you will be able to avoid making that mistake.</p>
+        <p>Deep inside your archetype, <span aweber-field="name">Friend</span>, beneath the bravado and seriousness, is a small part of you that just wants to be <span class="purple">accepted and loved.</span></p>
 
-        <p>As an Explorer, <span aweber-field="name">Friend</span>, you have the tendency to be a little too critical about yourself - constantly <span class="purple">pushing yourself</span> to achieve new heights, gain new experiences, and explore everywhere that you've never been before. But, at the same time, you must understand that <span class="purple">growth takes time</span>. You might not have all the time in the world, <span aweber-field="name">Friend</span>, but it is paramount for you to <span class="purple">exercise patience</span> in order not to wear yourself out.</p>
+        <p>Perhaps that might be why you concern yourself so much with appearances, <span aweber-field="name">Friend</span>... Because without appearances, you're afraid that you'll lose your <span class="purple">self-construed identity.</span> That is perhaps, the greatest challenge that you must overcome, <span aweber-field="name">Friend</span></p>
+
+        <p>As a Hero, you have the tendency to be a little too critical about yourself - constantly <span class="purple">pushing yourself</span> to achieve new heights, gain new experiences, and explore everywhere that you've never been before. But, at the same time, you must understand that <span class="purple">growth takes time</span>. You might not have all the time in the world, <span aweber-field="name">Friend</span>, but it is paramount for you to <span class="purple">exercise patience</span> in order not to wear yourself out.</p>
 
         <p><span aweber-field="name">Friend</span>, advancement and growth are products of both time and effort, and when you implement that to become a part of your life, your <span class="purple">passage to fulfillment</span> will be revealed to you... All in due time.</p>
 
         <p>There's something else you need to be aware of, <span aweber-field="name">Friend</span>.</p>
 
-        <p>In spite of your magnetic personality, you tend to prefer working on your own - and that trait in itself sets boundaries that can prevent you from achieving greater things. It is vital for you to <span class="purple">learn to trust others</span>, and by doing so, you will find that there's a lot <span class="purple">more for you to gain</span> than to lose.</p>
+        <p>Although you tend to project yourself as someone serious, assertive, and seemingly hard to work with, you're an excellent team player - perhaps amongst the best of all the archetypes. You're both <span class="purple">reliable and trusting,</span> and that balance translates into the way you work with others. You're willing to be diligent and to step up to the tasks that you'r not familiar with, and you always find a solution.</p>
 
-        <p>To maximize the abilities of your archetype, <span aweber-field="name">Friend</span>, you must <span class="purple">always be trusting, always be humble, and always be giving.</span> Those are the qualities and lessons that will lead you to your <span class="purple">eventual success.</span></p>
+        <p>After all, <span aweber-field="name">Friend</span>, this is the Hero's motto... <span class="purple">When there's a will, there's a way.</span> And that saying really shines through your actions and behaviour, <span aweber-field="name">Friend</span>.</p>
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, As A Hero, This Is Your Calling...</h2>
 
-        <p><span aweber-field="name">Friend</span>, you are practically <span class="purple">a chameleon</span> – possessing the uncanny ability to make yourself at home within any social group, or social setting; no matter how foreign. Your charisma and eloquence intrigues people. And at times, it also earns their trust.</p>
+        <p><span aweber-field="name">Friend</span>, ultimately, you are <span class="purple">a realist</span> – someone who sets and achieves realistic goals. You're not comfortable with being wishy-washy or fickle-minded. When you've set your mind to something, you'll do everything it takes to make it happen.</p>
 
         <p>Based on your archetype, it's apparent that you have a <span class="purple">strong sense of ambition</span> - a sense of hunger to do greater things.</p>
 
-        <p>However, as mentioned earlier in this Archetypal Introduction, your struggle with commitment tends to hold you back. You tend to associate commitment with the feeling of <span class="purple">being trapped and having your freedom stripped away from you...</span> But that feeling could not be further from the truth, <span aweber-field="name">Friend</span>. Fulfilment, at its essence, is derived from forging valuable relationships – with others, and yourself. And that, in itself, requires commitment.</p>
+        <p>However, as mentioned earlier in this Archetypal Introduction, your struggle with your identity tends to hold you back... Your fear of looking silly - a fear that <span class="purple">prevents you from trying different things.</span> <span aweber-field="name">Friend</span>, you will have to keep pushing your limits before you eventually discover your <span class="purple">life’s purpose and direction.</span> And that is something that you need to work towards with your archetype.</p>
 
-        <p>And that's where your calling resides, <span aweber-field="name">Friend</span>. You want to live life for yourself, without appearing selfish. You want to love yourself, while keeping the relationships you’ve forged <span class="purple">close to your heart.</span> Your archetype is the <span class="purple">role model and catalyst of change</span>, with exploration as its backbone.</p>
+        <p>And that's where your calling resides, <span aweber-field="name">Friend</span>. You want to live life for yourself, without limits. You want to be recognized and respected for who you are, while learning to be more bold with your impression.</p>
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, Here's A Glimpse Into Your <span class="purple">Love Compatibility</span> With Other Archetypes...</h2>
 
@@ -136,17 +138,17 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, do you see that chart on top? That little chart over there represents the archetypes that you’re most likely to end up with. Or if you’re already in a committed relationship, there’s a really good chance that your spouse is one of those archetypes.</p>
 
-        <p><span aweber-field="name">Friend</span>, your love compatibility profile is extraordinarily different from the other archetypes - and I'm sure some of your exes or current partner will agree with me on this.</p>
+        <p><span aweber-field="name">Friend</span>, the Hero archetype is a <span class="purple">giving, faithful, and dependable lover.</span> The ideal, dream-like partner who appears to be textbook-perfect.</p>
 
-        <p>It's difficult to describe, but this is the most apt way of putting it. Based on the nature of your archetype, you tend to be an <span class="purple">excellent short-term lover</span>, but you might find it difficult to be a long-term partner.</p>
+        <p>It's difficult to describe, but this is the most apt way of putting it. Based on the nature of your archetype, you tend to be an <span class="purple">excellent life partner</span>, but you tend to struggle with recognizing the right partners for you.</p>
 
-        <p>Your relationships and romances are often short-lived. Even if the connection between you and your romantic partner appears strong, you always seem to have one foot out the door.</p>
+        <p>It might take a while before you find the right one, <span aweber-field="name">Friend</span> - but as the saying goes, good things come to those who wait. If you're not in a committed relationship, your best bet will be to exercise patience and caution during your search for a romantic partner.</p>
 
-        <p>Because of that, it can be challenging for you to <span class="purple">meet the right one</span>. However, don't be disheartened. Whether or not you're already in a committed relationship, you'll be just fine.</p>
+        <p>And in due time, you will <span class="purple">meet the right one</span>. However, don't be disheartened. Whether or not you're already in a committed relationship, you'll be just fine.</p>
 
         <p>And when, or if you already have, met the right one, you must be weary of temptations - <span class="purple">committing yourself completely</span> can be scary and hard... But with a disciplined mind and a dedicated heart, you will overcome that fear and <span class="purple">produce a fruitful and loving relationship.</span></p>
 
-        <p>In the presence of your partner, depending on your level of comfort, you tend to be slightly more reserved than usual...</span> Perhaps that stems from your struggle with trust. However, you must remember that it's trust that will allow your archetype to open up.</p>
+        <p>In the presence of your partner, depending on your level of comfort, you tend to be slightly more reserved than usual...</span> Perhaps that stems from your struggle with how others perceive you - especially your romantic interest. However, as cliche as it sounds, you must remember that it's important to <span class="purple">be yourself,</span> and when you do, you will also be accepted for who you are.</p>
 
         <p>But don’t forget, <span aweber-field="name">Friend</span>, how you perceive yourself <span class="purple">should not be determined by your love life.</span> Romance is merely one, single aspect of life - not the only. It's always best to focus on your own personal growth, because that's the path that you must embark on to lead a rewarding and fulfilled life.</p>
     </div>

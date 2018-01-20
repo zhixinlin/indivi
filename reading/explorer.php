@@ -64,7 +64,7 @@ include ('../inc/header.php');
 
         <p>The Explorer archetype, <span aweber-field="name">Friend</span>, is also one that strives to be different. You prefer to feel and immerse yourself in the most <span class="purple">foreign environments</span> - environments that the other archetypes would prefer to avoid. There's also a side of you that tends to be a little bit of an <span class="purple">adrenaline junkie</span> - it might not be all that obvious, but it definitely exists.</p>
 
-        <p>You're an individual who's<span class="purple">sociable, likeable, and approachable.</span> Unlike the archetypes who are more introverted by nature, any day that you spend <span class="purple">sitting around at home feels like a waste of your time.</span> You'd very much prefer to <span class="purple">be literally anywhere else, doing anything else,</span> instead of being cooped up and alone.</p>
+        <p>You're an individual who's <span class="purple">sociable, likeable, and approachable.</span> Unlike the archetypes who are more introverted by nature, any day that you spend <span class="purple">sitting around at home feels like a waste of your time.</span> You'd very much prefer to <span class="purple">be literally anywhere else, doing anything else,</span> instead of being cooped up and alone.</p>
 
         <p>You might not be aware of this, <span aweber-field="name">Friend</span>... But your willingness to try new things is <span class="purple">inspiring and encouraging</span> to the people around you - mostly your peers. And because of this, your archetype truly has the capacity to <span class="purple">achieve greatness.</span></p>
 
