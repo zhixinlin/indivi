@@ -8,18 +8,18 @@ include ('../inc/header.php');
         <img src="../img/individualogist-logo2.png" width="300px">
     </div>
     <div class="page-header">
-        <span class="purple"><span aweber-field="name">Friend</span></span>, Your Archetype Is The <span class="purple"><span aweber-field="archetype">Lover</span></span>...
+        <span class="purple"><span aweber-field="name">Friend</span></span>, Your Archetype Is The <span class="purple"><span aweber-field="archetype">Magician</span></span>...
         <br>Are You Ready To <span class="purple">Discover The Definitive Truth</span> About Your <span class="purple">Personality?</span>
         <br>All Is Revealed In Your <span class="purple">Personalized Archetypal Introduction.</span>
         <div class="archetype-img">
-          <img src="../img/icons/lover.png" width="100px">
+          <img src="../img/icons/magician.png" width="100px">
         </div>
     </div>
 
     <div class="archetype-reading">
         <p>Dear <span aweber-field="name">Friend</span>,</p>
 
-        <p>If you’ve made it here, then congratulations! Because this means that your archetype is the Lover! But what does this actually mean? Don’t worry, everything you need to know will be on this page. Stick to the end of it and I promise that you’ll <span class="purple">experience something truly magical.</span></p>
+        <p>If you’ve made it here, then congratulations! Because this means that your archetype is the Magician! But what does this actually mean? Don’t worry, everything you need to know will be on this page. Stick to the end of it and I promise that you’ll <span class="purple">experience something truly magical.</span></p>
 
         <p>The Archetypal Identifier that you’ve recently used is designed to help you uncover your personality profile... Or, what we also know as your archetype - an in-depth examination of your entire being...</p>
 
@@ -38,47 +38,49 @@ include ('../inc/header.php');
 
         <p>And of course, you can use it to embark on the life that you've always dreamed of...</p>
 
-        <p>But before we get into that, I want to share with you a little bit about your archetype, The Lover, and what it means...</p>
+        <p>But before we get into that, I want to share with you a little bit about your archetype, The Magician, and what it means...</p>
 
-        <h2 class="sub-header"><span aweber-field="name">Friend</span>, You Are The Lover - And This Is <span class="purple">What It Means...</span></h2>
+        <h2 class="sub-header"><span aweber-field="name">Friend</span>, You Are The Magician - And This Is <span class="purple">What It Means...</span></h2>
 
-        <p><span aweber-field="name">Friend</span>, the Lover archetype is one that comprises a series of <span class="purple">interesting traits and generous attributes.</span> Truth be told, the Lover archetype is not merely one-dimensional. It has many different sides and faces, and as we progress through this <span class="purple">Archetypal Introduction</span>, you'll begin to understand what I mean. But before we proceed, please do so with with an open mind, and a willing heart.</p>
+        <p><span aweber-field="name">Friend</span>, the Magician archetype is one that has forged deep connections with the universe... Amongst all the archetypes, the Magician is perhaps the <span class="purple">most difficult to comprehend,</span> and you're well aware of that. You have a strong, unbreakable belief in your <span class="purple">dreams, abilities, and yourself.</span></p>
 
-        <p><span aweber-field="name">Friend</span>, The Lover archetype is one of <span class="purple">profound sensitivity, and deep emotional connection.</span> That means that you are an individual who <span class="purple">experiences the extremities of all emotions.</span> Your happiness is often an elation beyond description, while your pain feels like it can be excruciating and crippling...</p>
+        <p>Truth be told, the Magician archetype is not merely one-dimensional. It has many different sides and faces, and as we progress through this <span class="purple">Archetypal Introduction</span>, you'll begin to understand what I mean. But before we proceed, please do so with with an open mind, and a willing heart.</p>
 
-        <p>That stems from your ability to understand and experience life at heightened levels. Because of that profound connection that you share with feeling and sentiments, you have an extraordinary ability when it comes to <span class="purple">reading people</span> - that includes recognizing their emotions, understanding their circumstances, and being able to see right through their expressions.</p>
+        <p><span aweber-field="name">Friend</span>, The Magician archetype is one of <span class="purple">profound knowledge and intellect.</span> You excel when it comes to <span class="purple">deciphering patterns, breaking codes, and resolving problems.</span> Your analytical ability and logical approach to everything makes you a reliable and efficient problem solver.</p>
 
-        <p>You have <span class="purple">an edge</span> over everyone else when it comes to navigating your way through social situations. It’s no wonder that the people you encounter always feel so drawn to you.</p>
+        <p>That, however, also means that you have tendency to be rather distant, even though you're able to recognize the most <span class="purple">intricate details about people.</span> You instinctively know who to trust, and who to look out for. Others might label you as judgmental or perhaps a little too critical, but your deductions are often, or almost alawys right.</p>
+
+        <p>But what really sets you apart is your fearlessness and ferocity when it comes to the ideas and beliefs that you're passionate about. It’s no wonder that the people you encounter are left with a strong impression.</p>
 
         <!--Insert Archetype Icon-->
-        <img class="img-intext" src="../img/icons/lover.png">
+        <img class="img-intext" src="../img/icons/magician.png">
 
-        <p><span aweber-field="name">Friend</span>, your archetype revolves vastly around emotions, feelings, and sensuality. You have no qualms when it comes to opening up to others. In fact, you're even more than happy to do so. Unlike other archetypes, the Lover is capable of experiencing life in a much <span class="purple">richer and concentrated</span> fashion. You appreciate the littlest of things and you're able to understand the underlying meanings of actions.</p>
+        <p><span aweber-field="name">Friend</span>, there is a strong sense of discipline within you. Unlike other archetypes, you're not afraid of hardwork, and you're not afraid of suffering. Rather, you thrive on it. You have a strange appreciation for pain, but not in the same way as a masochist. Your appreciation for pain stems from associating it with growth and advancement - an appreciation that pushes you forward.</p>
 
         <p>People find themselves drawn to you because of your ability to engage in deep, thoughtful conversations. The bonds that you forge with others is often something they've never experienced before. <span aweber-field="name">Friend</span>? Your deep understanding of feelings and approachable appearance makes you a <span class="purple">warm and comforting presence to be around.</span></p>
 
-        <p><span aweber-field="name">Friend</span>, your archetype also suggests that you're <span class="purple">soft-hearted, gentle, and mellow.</span> You're the type of person who  <span class="purple">reaches out to the quitest person in the room</span>, trying your best to make everyone feel comfortable.</p>
+        <p><span aweber-field="name">Friend</span>, this puts you at a great advantage when it comes to <span class="purple">achieving the things that you set your mind to.</span> You're the type of person who <span class="purple">reaches for the stars</span>, and you have no intention of falling amongst the clouds.</p>
 
-        <p>Amongst all the archetypes, yours has the greatest tendency to <span class="purple">romanticizie things</span>... Whether it's your relationships, Not that it's a bad thing, of course. It's just a part of who you are. You're expressive as a person, and you're undivded with your attention.</p>
+        <p>Amongst all the archetypes, the Magician is the most <span class="purple">cunning and crafty</span>... You're able to influence the decisions of others without them knowing. Your methodical when it comes to planning your steps, and you always seem to be one step ahead.</p>
 
-        <p>You tend to make an excellent listener, <span aweber-field="name">Friend</span>... Unlike other archetypes, you never struggle when it comes to exercising empathy and understanding the emotions and feelings of others. That's because you seem to be slightly more introverted based on your nature.</p>
+        <p>You tend to make an excellent listener, <span aweber-field="name">Friend</span>... But that trait of yours comes from knowing that <span class="purple">information is power.</span> You're slow to reveal your innermost thoughts... You're a firm believer of revealing just enough, but absorbing more than you need.</p>
 
-        <p>The Lover archetype is one that's deeply committed to the things and people that it cares about. You're always willing to <span class="purple">go out of your way, and above and beyond </span>to make someone feel special and appreciated. And as you might have already guessed by now, even though you draw energy from being by yourself, you're a lot more people-oriented that you think, <span aweber-field="name">Friend</span>
+        <p>The Magician archetype is one that also has the tendency to become <span class="purple">manipulative and scheming.</span> For the most part, you do exercise compassion and your heart's often in the right place. But it's also important to learn to be forgiving and patience, <span aweber-field="name">Friend</span>... But we'll discuss that in greater detail as we progress through this Archetypal Introduction.</p>
 
-        <h2 class="sub-header">As A Lover, These Are Your Strengths, Tendencies, And Positive Attributes...</h2>
+        <h2 class="sub-header">As A Magician, These Are Your Strengths, Tendencies, And Positive Attributes...</h2>
 
-        <p><span aweber-field="name">Friend</span>, you are an individual who's <span class="purple">sensual, affectionate, and benevolent.</span> Although you prefer to keep your circle of friends small, you invest a lot of time and attention into the relationships that you forge. People who cross paths with you often have a memorable impression, primarily because of your <span class="purple">welcoming and pleasant demeanour.</span> </p>
+        <p><span aweber-field="name">Friend</span>, you are <span class="purple">intuitive, knowledgable, and versatile.</span> You have a wide variety of interests, but perhaps your greatest interest of all is <span class="purple">learning.</span></p>
 
-        <p>Your archetype also suggests that you're someone who's protective, whether it comes to your <span class="purple">relationships or possessions.</span> Anything that belongs to you is often kept in good condition, and that translates into your friendships and relationships as well.</p>
+        <p>But the learning in question does not refer to academics - not even close. Whether its finding out how certain things are made, or understanding why certain people are charismatic, you're just simply <span class="purple">interested to know everything.</span> That's all driven by your perpetual curiosity, and your talent in comprehending concepts quickly.</p>
 
-        <p>There's something else about your archetype, <span aweber-field="name">Friend</span>... Nothing pleases you more than <span class="purple">expressing love, and receiving love.</span> Although, the type of love in question does not necessarily solely refer to <span class="purple">romance or courtship.</span> It also includes love between friends, family, and even strangers.</p>
+        <p>There's something else about your archetype, <span aweber-field="name">Friend</span>...You're also incredibly versatile. You're able to assume different roles according to different situations - very much like an actual magician, who has <span class="purple">numerous tricks</span> hidden in his sleeves. Perhaps the best way to illustrate this is within a team setting - you're able to fill up whatever role is left, and you're able to do it well.</p>
 
-        <p><span aweber-field="name">Friend</span>, based on the strengths of your archetype, you're an individual who's appreciative of the little things in life, making your positive presence both contagious and addictive.</p>
+        <p><span aweber-field="name">Friend</span>, based on the strengths of your archetype, you're an individual who's highly observant, and incredibly resourceful.</p>
 
         <!--Insert Strength Image-->
         <img class="img-intext" src="../img/strength.png">
 
-        <p><span aweber-field="name">Friend</span>, as a Lover, you center your life around one thing - <span class="purple">love.</span> Your archetype's greatest obsession involves a combination of <span class="purple"> intimacy, and experience...</span> <span class="purple"> An outlook on life that motivates you to develop yourself in terms of <span class="purple">emotional maturity.</span></p>
+        <p><span aweber-field="name">Friend</span>, as a Magician, you're actually a lot more <span class="purple">nurturing</span> than you think. You might appear to be a little bit emotionally detached on the outside, but when you're alone, you're actually someone who's <span class="purple">warm, caring, and tender.</span> <span class="purple"> And that translates into how well you're able to connect with others - an indicator of emotional stability.</p>
 
         <p>Apart from that, <span aweber-field="name">Friend</span>, you seem have a discnering understanding of what it means to love - one that adopts a more philosophical point of view, and also, one that grants you special talents when it comes to <span class="purple">empathy and affinity.</span></p>
 
@@ -86,7 +88,7 @@ include ('../inc/header.php');
 
         <p>You see, <span aweber-field="name">Friend</span>, your aura is one that's <span class="purple">genuine and flirtatious</span>. Your laughter is infectious, and you're simply able to earn the trust of others relatively easily.</p>
 
-        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Romantic Lover, <span aweber-field="name">Friend</span></h2>
+        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Romantic Magician, <span aweber-field="name">Friend</span></h2>
 
         <p>This portion of your Archetypal Introduction does not seek to scare you, <span aweber-field="name">Friend</span>... But it's best that you be made aware of the <span class="purple">potential challenges</span> that lie ahead of you - or perhaps you've encountered some of these challenges already.</p>
 
@@ -106,7 +108,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, it's important to understand that all archetypes has its fair share of <span class="purple">weaknesses and challenges</span>. Now that you're aware of them, you'll be able to pay attention to them, and then improve on them.</p>
 
-        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As A Lover, This Is Your Calling...</h2>
+        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As A Magician, This Is Your Calling...</h2>
 
         <p><span aweber-field="name">Friend</span>, you’re at your happiest when you’re in a committed relationship; especially with someone who treasures you, nurtures you, and loves you for exactly who you are. Your <span class="purple">faithfulness and trust</span> are unquestionable, but if your trust is ever broken, you find it almost impossible to rebuild it.</p>
 
@@ -118,7 +120,7 @@ include ('../inc/header.php');
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, Here's A Glimpse Into Your <span class="purple">Love Compatibility</span> With Other Archetypes...</h2>
 
-        <img class="love-img" src="../img/love/lover-love-compatibility.png">
+        <img class="love-img" src="../img/love/magician-love-compatibility.png">
 
         <p><span aweber-field="name">Friend</span>, do you see that chart on top? That little chart over there represents the archetypes that you’re most likely to end up with. Or if you’re already in a committed relationship, there’s a really good chance that your spouse is one of those archetypes.</p>
 
