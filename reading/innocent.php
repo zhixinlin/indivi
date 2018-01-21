@@ -44,7 +44,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, before you dismiss this Archetypal Introduction as nothing but hogwash, you must know that the Innocent archetype is <span class="purple">NOT one that's typically associated with naivety.</span> Truth be told, it is anything but. If you'd like to find out the truth about what the Innocent really resembles, <span class="purple">then please proceed with the rest of this Archetypal Introduction</span> with an open mind, and a willing heart.</p>
 
-        <p>Yes, <span aweber-field="name">Friend</span>...  The Innocent archetype is best defined by its <span class="purple">sheer positivity, enthusiasim, and optimism.</span> They'reable to interpret any situation in a perspective that's <span class="purple">hopeful, encouraging, and infectious.</span> If you're thinking that there's a lot more to the Innocent archetype than just that, you're exactly right, <span aweber-field="name">Friend</span>!</p>
+        <p>Yes, <span aweber-field="name">Friend</span>...  The Innocent archetype is best defined by its <span class="purple">sheer positivity, enthusiasim, and optimism.</span> They're able to interpret any situation in a perspective that's <span class="purple">hopeful, encouraging, and infectious.</span> If you're thinking that there's a lot more to the Innocent archetype than just that, you're exactly right, <span aweber-field="name">Friend</span>!</p>
 
         <p>Individuals of the Innocent archetype, including you, tend to see the <span class="purple">silver lining in every cloud</span> and are constantly reminding themselves that there's virtue and a sense of goodness in everything, and every situation. You're always on the <span class="purple">lookout for wisdom and lessons</span> worth learning, no matter how painful your experiences get...</p>
 
@@ -102,7 +102,7 @@ include ('../inc/header.php');
 
         <p>The Innocent archetype tends to struggle with <span class="purple">coming out of its comfort zone.</span> It's likely that you prefer to stay within the constrains of what you deem to be familiar. You must know, <span aweber-field="name">Friend</span>, with your strengths and unique talents, you are definitely capable of more than you could ever imagine.</p>
 
-        <p>You see, <span aweber-field="name">Friend</span>, as an Innocent, it is vital for you totake up the challenge of stepping out of your comfort zone. Being surrounded with <span class="purple">unfamiliarity</span> will allow room for you, as an Innocent, to develop and improve yourself. It does not have to toe the lines of extremeities, <span aweber-field="name">Friend</span> - just small, little, progressive steps.</p>
+        <p>You see, <span aweber-field="name">Friend</span>, as an Innocent, it is vital for you to take up the challenge of stepping out of your comfort zone. Being surrounded with <span class="purple">unfamiliarity</span> will allow room for you, as an Innocent, to develop and improve yourself. It does not have to toe the lines of extremeities, <span aweber-field="name">Friend</span> - just small, little, progressive steps.</p>
 
         <p>Based on the telligs of your archetype, you need to learn to take these calculated risks, whether its in social interactions or at work. </p>
 

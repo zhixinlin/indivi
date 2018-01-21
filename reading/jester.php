@@ -42,55 +42,49 @@ include ('../inc/header.php');
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, You Are The Jester - And This Is <span class="purple">What It Means...</span></h2>
 
-        <p><span aweber-field="name">Friend</span>, before you dismiss this Archetypal Introduction as nothing but hogwash, you must know that the Jester archetype is <span class="purple">NOT one that's typically associated with naivety.</span> Truth be told, it is anything but. If you'd like to find out the truth about what the Innocent really resembles, <span class="purple">then please proceed with the rest of this Archetypal Introduction</span> with an open mind, and a willing heart.</p>
+        <p><span aweber-field="name">Friend</span>, before you dismiss this Archetypal Introduction as nothing but hogwash, you must know that the Jester archetype is <span class="purple">NOT one that's solely represented as a mere joker.</span> Truth be told, there's so much more about the Jester archetype. As we progress through this <span class="purple">Archetypal Introduction</span>, you'll begin to understand what I mean. But before we proceed, please do so with with an open mind, and a willing heart.</p>
 
-        <p>Yes, <span aweber-field="name">Friend</span>...  The Jester archetype is best defined by its <span class="purple">sheer positivity, enthusiasim, and optimism.</span> They'reable to interpret any situation in a perspective that's <span class="purple">hopeful, encouraging, and infectious.</span> If you're thinking that there's a lot more to the Innocent archetype than just that, you're exactly right, <span aweber-field="name">Friend</span>!</p>
+        <p><span aweber-field="name">Friend</span>, The Jester archetype is blessed with <span class="purple">astute, sharp, and quick-witted.</span> That means that you are an individual who is able to <span class="purple">approach a varierty of topics from a myriad of perspectives.</span> Despite your playful appearance and mischievious behaviour, you are <span class="purple">nimble and brilliant in your own unique way.</span>
 
-        <p>Individuals of the Jester archetype, including you, tend to see the <span class="purple">silver lining in every cloud</span> and are constantly reminding themselves that there's virtue and a sense of goodness in everything, and every situation. You're always on the <span class="purple">lookout for wisdom and lessons</span> worth learning, no matter how painful your experiences get...</p>
+        <p>You seem to be able to <span class="purple">breeze your way through life,</span> with your unconventional ideas, amusing comments, and hilarious interpretations. Naturally, you're often the life of the party. People enjoy being around you, because wherever you go, good times are bound to follow!</p>
 
-        <p>To you, <span aweber-field="name">Friend</span>, everyone has a story worth listening to, every circumstance holds something worth experiencing, and everything that happens in life,  <span class="purple">happens for a reason.</span> That is a belief; a deep-rooted outlook that makes the Innocent archetype so <span class="purple">remarkable.</p>
+        <p>Others might perceive you to be an individual who's more emotional because of your spontaneity... But, you are in fact, more <span class="purple">intuitive and perceptive</span> than you make yourself out to be. After all, <span aweber-field="name">Friend</span>, your excellent sense of humour is <span class="purple">constructed with creativity,</span> and seasoned with your charisma. And that requires a certain calibre of incisiveness.</p>
 
         <!--Insert Archetype Icon-->
         <img class="img-intext" src="../img/icons/jester.png">
 
-        <p><span aweber-field="name">Friend</span>, your archetype also suggests that there is a side of you that's relentless... Relentless in the sense of striving to improve yourself - whether it's your <span class="purple">physical abilities, your mental fortitude, or your emotional resilience.</span> That being said, you're certainly an individual of impressive characteristics - characteristics that are unique to your archetype.</p>
+        <p><span aweber-field="name">Friend</span>, your archetype also suggests that you're a charismatic individual... There's just something about the way you speak, the way you portray yourself, that appears <span class="purple">hypnotic</span>... Alluring, even.</p>
 
-        <p>You seem to exercise selflessness in everything that you do, <span aweber-field="name">Friend</span>... No matter how small or miniscule your actions appear to be, every decision that you make, no matter how small, is always for a <span class="purple">purpose that serves others.</span> And when it comes to making important and difficult decisions, you're <span class="purple">assertive, firm, and steadfast.</p>
+        <p>People find themselves drawn to you because of your ability to spice up your conversations. And all of that just seems to come naturally to you, doesn't it, <span aweber-field="name">Friend</span>? Your personable body language and outgoing attitude towards in life makes you a <span class="purple">sheer joy to be around.</span></p>
 
-        <p><span aweber-field="name">Friend</span>, your archetype also suggests that you're <span class="purple">simple, easy-going, and transparent.</span> You're the type of person who's willing to wear your heart on your sleeve, stand up for your beliefs, and face the consequences of mistakes... An upstanding individual who's <span class="purple">fearless in profound ways.</span>
+        <p><span aweber-field="name">Friend</span>, your archetype also suggests that you're <span class="purple">casual, easy-going, and free-spirited.</span> You're the type of person who allows your imagination to run wild, conjuring the most ridiculous ideas and painting the silliest images in your head... An individual who simply <span class="purple">doesn't take life too seriously.</span>
 
-        <p>Amongst all the archetypes, you tend to have <span class="purple">the purest of intentions</span>... And that's best illustrated through the way you interact with others. Unlike others, when you claim to be happy for someone else, you actually do <span class="purple">mean it from the bottom of your heart</span> - and that goes a long way in forging valuable, close relationships.</p>
+        <p>Amongst all the archetypes, yours is one of the few that's <span class="purple">idealistic</span>... And that's best illustrated through the innerworkings of your unique mind and vibrant personality. You tend to <span class="purple">daydream</span> more than you actually do, but whenever you do see your ideas to fruition, great things always seem to happen.</p>
 
-        <p>You might not like to admit it, <span aweber-field="name">Friend</span>... But when things don't turn out your way, you're easily dispappointed. That, of course, does not mean to say that your spoilt... It's that your positive outlook on everything can sometimes <span class="purple">set you up for disappointments.</span> But that's the price you have to pay for possessing such a <span class="purple">unique set of strengths,</span> <span aweber=field="name">Friend</span>.
+        <p>You might not like to admit it, <span aweber-field="name">Friend</span>... But you tend to waiver a bit when it comes to serious situations or harsh conversations. You'd very much rather avoid such instances entirely, instead of having to actually deal with them. That is a struggle that you must be careful of, <span aweber=field="name">Friend</span>. But we'll speak more to that later.
 
-        <p>The Innocent archetype is such a joy to be around, and I have no doubt that your friends and loved ones will agree with this. Your  <span class="purple">light-hearted and jovial nature</span> make you fun-loving, charismatic, and likeable. You try not to be seriuos most of the time, and you enjoy engaging in little things that will make <span class="purple">someone else's day brighter</span>. Whether it's pretending to laugh at a corny joke, applauding a predictable magic trick, you'd very much rather <span class="purple">bless that person</span> with positivty than put them down.</p>
+        <p>The Jester archetype is such a joy to be around, and I have no doubt that your friends and loved ones will agree with this. Your  <span class="purple">light-hearted and jovial nature</span> make you fun-loving, charismatic, and likeable. You try not to be seriuos most of the time, and you enjoy engaging in little things that make <span class="purple">someone else's day brighter</span>. Whether it's dropping one of your iconic one-liners or performing silly actions.
 
-        <p>And that's just a small piece of the puzzle that forms the entirety of the <span class="purple">wonderful, angelic individual</span> that you are. Unlike the archetypes who tend to struggle with hatred and anomisoty, you'd very much rather <span class="purple">make friends than enemies.</span> You're accepting, kind, and incredibly thoughtful.</p>
+        <h2 class="sub-header">As A Jester, These Are Your Strengths, Tendencies, And Positive Attributes...</h2>
 
-        <p>You might not be aware of this, <span aweber-field="name">Friend</span>... But all of these personality traits lead to so much more. Your optimism makes you <span class="purple">ferocious - like an unstoppable force.</span> There is no archetype that matches your level of determination, because there is nothing stronger than  <span class="purple">an unbreakable spirit.</span></p>
+        <p><span aweber-field="name">Friend</span>, you are an individual who's <span class="purple">impressionable, cheerful, and intriguing.</span> You seem to be able to blend into any social group, and you have a wide circle of friends. People who cross paths with you have no trouble <span class="purple">recognizing and remembering you.</span> You're always able to <span class="purple">bring smiles</span> to the darkest of times, and your presence lights up the room.</p>
 
-        <p>That's why the world needs more people like you, <span aweber-field="name">Friend</span>... I have no doubt that you will one day <span class="purple">infect others with your positivity</span>, and influence them to have the same tenacity as you.</p>
+        <p>Your archetype also suggests that you're not the jealous or protective type = whether it's in relationships, friendships, or even as a parent. You hardly allow the actions of others to <span class="purple">dampen your mood,</span> and you prefer to be in complete control of your own emotions.</p>
 
-        <h2 class="sub-header">As An Innocent, These Are Your Strengths, Tendencies, And Positive Attributes...</h2>
+        <p>There's something else about your archetype, <span aweber-field="name">Friend</span>... Nothing pleases you more than <span class="purple">experiencing the joys and emotions of life</span> at its maximum. In tha face of adversity, you're somehow able to <span class="purple">move past setbacks quickly, and effortlessly.</span></p>
 
-        <p><span aweber-field="name">Friend</span>, you are an individual who's <span class="purple">capable of finding joy in the smallest of things.</span> Your perspective of the world is through that of a childlike lens - and you experience life at the purest level. <span aweber-field="name">Friend</span>, you are most likely the motivator of any social group or work setting. You always seem to know the <span class="purple">right words to say, and at the right time.</span> You have the unique talent of <span class="purple">calming others with your presence,</span> knowing that they have someone <span class="purple">who's rooting for them</span> by their side.</p>
-
-        <p>But that's not all there is to the Innocent archetype, <span aweber-field="name">Friend</span>... This is merely the beginning. As an Innocent, you are <span class="purple">selfless - often putting your needs behind the needs of others.</span> You put your best in everything that you do, and you always make sure that your <span class="purple">heart's in the right place.</span></p>
-
-        <p>There's something else about your archetype, <span aweber-field="name">Friend</span>... You're far more magnanimous than others - always ready to  <span class="purple">give more than you're willing to receive.</span> And that stems from your <span class="purple">willingness to see the goodness in people.</span> In your eyes, all man is deserving of kindness - and that really translates through your actions.</p>
-
-        <p><span aweber-field="name">Friend</span>, based on the strengths of your archetype, there is no doubt that you're an individual who makes a forgiving partner, a nurturing parent, and a dependable friend.</p>
+        <p><span aweber-field="name">Friend</span>, based on the strengths of your archetype, nothing seems to be able to put you down - or not for long, to say the least.</p>
 
         <!--Insert Strength Image-->
         <img class="img-intext" src="../img/strength.png">
 
-        <p><span aweber-field="name">Friend</span>, it's become abundantly clear that you'll experience the <span class="purple">greatest amount of fulfillment and joy</span> from pursuing a career that will <span class="purple">allow you to motivate and bring out the best in others...</span> A noble duty that grows in greater demand as society becomes more detached and emotionally disconnectd.</p>
+        <p><span aweber-field="name">Friend</span>, as a Jester, you center your life around one thing - <span class="purple">living in the present.</span> You live life according to your own rules, and that states that <span class="purple">the past shall be forgotten, and the future shall hold no worries...</span> An outlook on life that allows you to retain your high spirits.</p>
 
-        <p>Beyond that, <span aweber-field="name">Friend</span>, you have a profound understanding of the <span class="purple">innerworkings of the human soul</span>. Your empathtic nature allows you to comprehend what someone else is going through, and you always seem to know how to lead them out of darkness. In many ways, you're the beacon of hope that has and will touch the lives of many.</p>
+        <p>Beyond that, <span aweber-field="name">Friend</span>, you have a profound understanding of what <span class="purple">makes others tick</span>. In a crowded room, you're constantly tapping into your analytical ability to dissect that crowd that surrounds you...</p>
 
-        <p>In terms of your behaviour around others, you're always ready to offer a <span class="purple">listening ear.</span> You're always swift to listen, but slow to speak. If you've ever wondered why people are always sharing their <span class="purple">deepest troubles</span> with you, that is the exact reason why, <span aweber-field="name">Friend</span>
+        <p>In terms of your behaviour around others, you tend to take things rather lightly - you avoid bringing up <span class="purple">serious topics</span> and you make it an effort to keep things casual. It seems that you're not someone that others would come to <span class="purple">to pour their frustrations and share their troubles,</span> and you'd certainly like to keep it that way.</p>
 
-        <p>You see, <span aweber-field="name">Friend</span> - you exude an <span class="purple">aura of purity</span>. You trust others just as easily as others are able to place their trust in you. That's because your earnestness really shows through your personality.
+        <p>You see, <span aweber-field="name">Friend</span>, your aura is one that's <span class="purple">bright, and radiant</span>. Your laughter is infectious, and you're simply the person that everyone wants to be around.</p>
 
         <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Virtuous Jester, <span aweber-field="name">Friend</span></h2>
 
@@ -98,35 +92,29 @@ include ('../inc/header.php');
 
         <img class="img-intext" src="../img/sailing.png">
 
-        <p>However, I have no doubt that with your <span class="purple">strenghts, resilience, and fortitude</span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
+        <p>However, I have no doubt that with your <span class="purple">strenghts and personality traits, </span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
 
-        <p>The Innocent archetype tends to struggle with <span class="purple">coming out of its comfort zone.</span> It's likely that you prefer to stay within the constrains of what you deem to be familiar. You must know, <span aweber-field="name">Friend</span>, with your strengths and unique talents, you are definitely capable of more than you could ever imagine.</p>
+        <p>The Jester archetype tends to struggle with <span class="purple">being serious.</span> That is, of course, just part of who you are - as an archetype, and as an individual. However, you must know, <span aweber-field="name">Friend</span>, that attribute about you also shapes the way that others perceive you, <span class="purple">especially the people close to you.</span></p>
 
-        <p>You see, <span aweber-field="name">Friend</span>, as an Innocent, it is vital for you totake up the challenge of stepping out of your comfort zone. Being surrounded with <span class="purple">unfamiliarity</span> will allow room for you, as an Innocent, to develop and improve yourself. It does not have to toe the lines of extremeities, <span aweber-field="name">Friend</span> - just small, little, progressive steps.</p>
+        <p>You see, <span aweber-field="name">Friend</span>, as a Jester, it is vital for you to get in touch with your more <span class="purple">serious side.</span> That will be quintessential to your development as an all-rounded, balanced, and emotionally connected individual. This is the first step towards learning to open yourself up to others, <span aweber-field="name">Friend</span>, and in that process, you will learn to <span class="purple">trust</span> as well as earn the trust of others.</p>
 
-        <p>Based on the telligs of your archetype, you need to learn to take these calculated risks, whether its in social interactions or at work. </p>
+        <p>Taking thingsa little more seriously once in a while will show people that there's a different side to you; a side that they'll appreciate since it isn't displayed often. </p>
 
-        <p>Your archetype tends to be fearful of <span class="purple">consequences,</span> even though you have the capacity to power through anything that life throws at you, residing in your comfort zone for too long has made you fearful... Mistakes are part and parcel of life, and a life lived without mistakes <span class="purple">does not</span> equate to a fulfilled life.</p>
+        <p>At first, it might seem as if you're <span class="purple">losing your sense of identity.</span> But that could not be further from the truth. In fact, working on that aspect of your personality will, in fact, reveal a part of your identity that you never knew existed.</p>
 
-        <p>Understandably, it can be difficult for the Innocent to grow used to experiencing <span class="purple">the pain of failure.</span> And that fear in itself leads to a multitude of other challenges...</p>
+        <p>Based on your other traits, <span aweber-field="name">Friend</span>, you also seem to struggle with <span class="purple">spending your time wisely</span>. You're constantly procrastinating and putting things off until the very last minute.</p>
 
-        <p>You might tend to hold yourself back from <span class="purple">seizing new opportunities,</span> embarking on new ventures, or exploring unknown horizons... Things that could open doorways for you and reward you with new discoveries.</span></p>
-
-        <p>Perhaps that might be why you concern yourself so much with the familiar, <span aweber-field="name">Friend</span>... Because beyond the familiar, you're afraid that you'll lose your <span class="purple">self-construed identity.</span> That is perhaps, the greatest challenge that you must overcome, <span aweber-field="name">Friend</span></p>
-
-        <p>You should be constantly jumping into <span class="purple">new opportunities</span> and discovering your path as it unfolds. That way, you’ll be able to continue to grow as a person, as an individual, and as an Innocent.</p>
-
-        <p><span aweber-field="name">Friend</span>, advancement and growth are not gifts that are bestowed upon you - they are the fruits of hardwork and labour. And when you take action for your personal growth, your <span class="purple">passage to fulfillment</span> will be revealed to you... All in due time.</p>
+        <p>Perhaps it stems from your <span class="purple">disinterest towards anything mundane</span>. Nevertheless, learning to prioritize your time will be your first step towards achieving more - more than you could possibly imagine.</p>
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, As A Jester, This Is Your Calling...</h2>
 
-        <p><span aweber-field="name">Friend</span>, you are on a quest – a quest for happiness; for joy. And as forementioned, your archetype tends to struggle with finding fulfilment... But with this Archetypal Introduction, there is no doubt that the <span class="purple">end of the tunnel is fast approaching,</span> and you will uncover your path to fulfillment a lot sooner than expected.</p>
+        <p><span aweber-field="name">Friend</span>, enthusiastic and humorous being. Like a fairy godmother with the touch of your wand, you’re able to spark laughter and smiles from all sorts of people.</p>
 
-        <p>Based on your archetype, your <span class="purple">sheer positivity and inner fortitude</span> will form the foundation of your success - whether it's in your career, your love life, or your personal goals. And as long as you continue to act on new opportunities of personal growth, you will find the success that you’re looking for.</p>
+        <p>However, associating yourself too much with that one single aspect can make you <span class="purple">lost sight of who you truly are.</span> There is so much more to the Jester archetype, <span aweber-field="name">Friend</span> - and that includes your intellect and perception.</p> Your route to fulfillment can be found from the relationships that you forge with others. Whether it's in terms of your career, or even your love life.
 
-        <p>However, as mentioned earlier in this Archetypal Introduction, your struggle with your fears tends to hold you back... Your fear of discomfort - a fear that <span class="purple">prevents you from trying different things.</span> <span aweber-field="name">Friend</span>, you will have to keep pushing your limits before you eventually discover your <span class="purple">life’s purpose and direction.</span> And that is something that you need to work towards with your archetype.</p>
+        <p>However, as mentioned earlier in this Archetypal Introduction, your struggle with your fears tends to hold you back... Your fear of seriousness is also indicative of your <span class="purple">fear of disappointment.</span> <span aweber-field="name">Friend</span>, you have a profound understanding of the logic behind expectations, and fundamentally, your innermost thoughts are often pessimistic... Simply because you refuse to set yourself up for <span class="purple">disappointments.</span></p>
 
-        <p>And that's where your calling resides, <span aweber-field="name">Friend</span>. You want to live life for yourself, a life of abundance and joy.</p>
+        <p><span aweber-field="name">Friend</span>, there is power in positivity. There is great things to be learned from optimism - it's a form of energy in itself that has the potential to grant you fortitude and resilience... To weather out your potential challenges and difficulties. Embracing that will form a significant part of your calling in life.</p>
 
         <h2 class="sub-header"><span aweber-field="name">Friend</span>, Here's A Glimpse Into Your <span class="purple">Love Compatibility</span> With Other Archetypes...</h2>
 
@@ -134,17 +122,15 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, do you see that chart on top? That little chart over there represents the archetypes that you’re most likely to end up with. Or if you’re already in a committed relationship, there’s a really good chance that your spouse is one of those archetypes.</p>
 
-        <p><span aweber-field="name">Friend</span>, the Innocent archetype is known to be <span class="purple">sweet, kind, and accepting</span> in a relationship... It's unlikely that you will encounter much difficulty with finding potential suitors.</p>
+        <p><span aweber-field="name">Friend</span>, the Jester archetype is known to be <span class="purple">sensible, joyful, and fun</span> in a relationship... You can, however, be a little bit indecisive at times.</p>
 
-        <p>But, in this instance, it is important for you to be a little bit stringent with your criteria for a  <span class="purple">potential romantic partner.</span> After all, you have so much to offer as a lover - and you do tend to be a little bit careless with who you place your trust in. This piece of advice serves to save you another broken heart.</p>
+        <p>Finding potential partners isn't exactly difficult for you... But your biggest romantic challenge lies in <span class="purple">maintaining and building a long-lasting relationship.</span> After all, you do tend to seem emotionally absent and be a little bit distant, and that makes it hard to communicate with you at a deeper level.</p>
 
-        <p>It might take a while before you find the right one, <span aweber-field="name">Friend</span> - but as the saying goes, good things come to those who wait. If you're not in a committed relationship, your best bet will be to exercise patience and caution during your search for a romantic partner.</p>
+        <p>That lack of a connection is usually what does it in for you, <span aweber-field="name">Friend</span>. But as long as you're willing to and continue to work on that, there is no doubt that a rewarding romantic life will be waiting right around the corner for you - perhaps in the form of your current partner, or a potential suitor.</p>
 
-        <p>And in due time, you will <span class="purple">meet the right one</span>. However, don't be disheartened. Whether or not you're already in a committed relationship, you'll be just fine.</p>
+        <p>However, if you already have met the right one, you must be weary of temptations - <span class="purple">committing yourself completely</span> can be scary and hard... But with a disciplined mind and a dedicated heart, you will overcome that fear and <span class="purple">produce a fruitful and loving relationship.</span></p>
 
-        <p>And when, or if you already have, met the right one, you must be weary of temptations - <span class="purple">committing yourself completely</span> can be scary and hard... But with a disciplined mind and a dedicated heart, you will overcome that fear and <span class="purple">produce a fruitful and loving relationship.</span></p>
-
-        <p>In the presence of your partner, you're not afraid of embracing who you are and <span class="purple">expressing what you feel.</span> Perhaps that stems from your honesty and willingness to trust others - especially your other half. That is a reliable indicator of a love life that is <span class="purple">healthy, easy-going, and nurturing.</span></p>
+        <p>In the presence of your partner, you're not afraid of embracing who you are and <span class="purple">expressing your true, playful self.</span> As forementioned though, that is merely one aspect of your identity. It would not be possible to paint an entire picture with a single brush. Remember to embrace the different parts of yourself, and <span class="purple">never be afraid to reveal them to your partner.</span></p>
 
         <p>But don’t forget, <span aweber-field="name">Friend</span>, how you perceive yourself <span class="purple">should not be determined by your love life.</span> Romance is merely one, single aspect of life - not the only. It's always best to focus on your own personal growth, because that's the path that you must embark on to lead a rewarding and fulfilled life.</p>
     </div>
