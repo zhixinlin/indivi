@@ -61,7 +61,7 @@ include ('../inc/header.php');
 
         <p>Amongst all the archetypes, yours is one of the few that's <span class="purple">idealistic</span>... And that's best illustrated through the innerworkings of your unique mind and vibrant personality. You tend to <span class="purple">daydream</span> more than you actually do, but whenever you do see your ideas to fruition, great things always seem to happen.</p>
 
-        <p>You might not like to admit it, <span aweber-field="name">Friend</span>... But you tend to waiver a bit when it comes to serious situations or harsh conversations. You'd very much rather avoid such instances entirely, instead of having to actually deal with them. That is a struggle that you must be careful of, <span aweber=field="name">Friend</span>. But we'll speak more to that later.
+        <p>You might not like to admit it, <span aweber-field="name">Friend</span>... But you tend to waiver a bit when it comes to serious situations or harsh conversations. You'd very much rather avoid such instances entirely, instead of having to actually deal with them. That is a struggle that you must be careful of, <span aweber=field="name">Friend</span>. But we'll speak more to that later.</p>
 
         <p>The Jester archetype is such a joy to be around, and I have no doubt that your friends and loved ones will agree with this. Your  <span class="purple">light-hearted and jovial nature</span> make you fun-loving, charismatic, and likeable. You try not to be seriuos most of the time, and you enjoy engaging in little things that make <span class="purple">someone else's day brighter</span>. Whether it's dropping one of your iconic one-liners or performing silly actions.
 
@@ -69,7 +69,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, you are an individual who's <span class="purple">impressionable, cheerful, and intriguing.</span> You seem to be able to blend into any social group, and you have a wide circle of friends. People who cross paths with you have no trouble <span class="purple">recognizing and remembering you.</span> You're always able to <span class="purple">bring smiles</span> to the darkest of times, and your presence lights up the room.</p>
 
-        <p>Your archetype also suggests that you're not the jealous or protective type = whether it's in relationships, friendships, or even as a parent. You hardly allow the actions of others to <span class="purple">dampen your mood,</span> and you prefer to be in complete control of your own emotions.</p>
+        <p>Your archetype also suggests that you're not the jealous or protective type - whether it's in relationships, friendships, or even as a parent. You hardly allow the actions of others to <span class="purple">dampen your mood,</span> and you prefer to be in complete control of your own emotions.</p>
 
         <p>There's something else about your archetype, <span aweber-field="name">Friend</span>... Nothing pleases you more than <span class="purple">experiencing the joys and emotions of life</span> at its maximum. In tha face of adversity, you're somehow able to <span class="purple">move past setbacks quickly, and effortlessly.</span></p>
 
@@ -86,7 +86,7 @@ include ('../inc/header.php');
 
         <p>You see, <span aweber-field="name">Friend</span>, your aura is one that's <span class="purple">bright, and radiant</span>. Your laughter is infectious, and you're simply the person that everyone wants to be around.</p>
 
-        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Virtuous Jester, <span aweber-field="name">Friend</span></h2>
+        <h2 class="sub-header">Unfortunately, Not All Is <span class="purple">Smooth-Sailing</span> For The Notorious Jester, <span aweber-field="name">Friend</span></h2>
 
         <p>This portion of your Archetypal Introduction does not seek to scare you, <span aweber-field="name">Friend</span>... But it's best that you be made aware of the <span class="purple">potential challenges</span> that lie ahead of you - or perhaps you've encountered some of these challenges already.</p>
 
@@ -98,7 +98,7 @@ include ('../inc/header.php');
 
         <p>You see, <span aweber-field="name">Friend</span>, as a Jester, it is vital for you to get in touch with your more <span class="purple">serious side.</span> That will be quintessential to your development as an all-rounded, balanced, and emotionally connected individual. This is the first step towards learning to open yourself up to others, <span aweber-field="name">Friend</span>, and in that process, you will learn to <span class="purple">trust</span> as well as earn the trust of others.</p>
 
-        <p>Taking thingsa little more seriously once in a while will show people that there's a different side to you; a side that they'll appreciate since it isn't displayed often. </p>
+        <p>Taking things a little more seriously once in a while will show people that there's a different side to you; a side that they'll appreciate since it isn't displayed often. </p>
 
         <p>At first, it might seem as if you're <span class="purple">losing your sense of identity.</span> But that could not be further from the truth. In fact, working on that aspect of your personality will, in fact, reveal a part of your identity that you never knew existed.</p>
 
