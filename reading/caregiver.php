@@ -101,7 +101,7 @@ include ('../inc/header.php');
 
         <img class="img-intext" src="../img/sailing.png">
 
-        <p>However, I have no doubt that with your <span class="purple">strenghts, resilience, and fortitude</span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
+        <p>However, I have no doubt that with your <span class="purple">strengths, resilience, and fortitude</span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
 
         <p>You see, because of your sympathetic and giving nature, your actions are highly prone to being misunderstood - misinterpreted, even.</p>
 

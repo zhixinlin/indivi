@@ -92,7 +92,7 @@ include ('../inc/header.php');
 
         <img class="img-intext" src="../img/sailing.png">
 
-        <p>However, I have no doubt that with your <span class="purple">strenghts and personality traits, </span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
+        <p>However, I have no doubt that with your <span class="purple">strengths and personality traits, </span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
 
         <p>The Lover archetype tends to struggle with <span class="purple">its need to be accepted.</span> And that drives you to resort to extensive measures to impress others, <span aweber-field="name">Friend</span>. And that's also indicative of a deeper fear that resides within you, <span aweber-field="name">Friend</span>... The fear of <span class="purple">being rejected, or alone.</span></p>
 
