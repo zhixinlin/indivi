@@ -98,7 +98,7 @@ include ('../inc/header.php');
 
         <img class="img-intext" src="../img/sailing.png">
 
-        <p>However, I have no doubt that with your <span class="purple">strengths, resilience, and fortitude</span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
+        <p>However, I have no doubt that with your <span class="purple">strenghts, resilience, and fortitude</span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
 
         <p>The Innocent archetype tends to struggle with <span class="purple">coming out of its comfort zone.</span> It's likely that you prefer to stay within the constrains of what you deem to be familiar. You must know, <span aweber-field="name">Friend</span>, with your strengths and unique talents, you are definitely capable of more than you could ever imagine.</p>
 
