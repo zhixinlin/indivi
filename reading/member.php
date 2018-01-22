@@ -73,7 +73,7 @@ include ('../inc/header.php');
 
         <p>You offer balanced perspectives, always remembering that there's two sides to a story. That <span class="purple">theme of harmony</span> flows into your choice of words, and the the decisions that you make.</p>
 
-        <p>You tend to make an excellent listener, <span aweber-field="name">Friend</span>... You offer <span class="purple">valuable input about</span> tricky situations and disputes between others. That trait is emanated by your <span class="purple">principled stance, morals,a nd ethics.</span></p>
+        <p>You tend to make an excellent listener, <span aweber-field="name">Friend</span>... You offer <span class="purple">valuable input about</span> tricky situations and disputes between others. That trait is emanated by your <span class="purple">principled stance, morals, and ethics.</span></p>
 
         <p>The Member archetype has a profound <span class="purple">connection to the world.</span> You're kind and considerate towards others' differences...</p>
             
@@ -134,7 +134,7 @@ include ('../inc/header.php');
         
         <p>You must forego the limiting belief that<span class="purple">listening is all it takes,</span> and be <span class="purple">more open</span> about sharing your personal circumstances and your ideas.</p> 
         
-        <p>This will allow you to tap into the strengths of your archetype, and really make full use of it to create <span class="purple">>even closer relations.</span</p>
+        <p>This will allow you to tap into the strengths of your archetype, and really make full use of it to create <span class="purple">even closer relations.</span></p>
 
         <p><span aweber-field="name">Friend</span>, do not be alarmed - this is all part and parcel of what it means to be a <span class="purple">Member</span>. And with your Archetypal Introduction, all of that will soon change.</p>
 

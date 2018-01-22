@@ -233,32 +233,10 @@
 
         <p>This is it, <span aweber-field="name">Friend</span>... After <span class="purple">clicking the "Order Now" button,</span> it's all hands on deck as we sail through the seas of your amazing archetype! I have no doubt that you'll be compelled to <span class="purple">make the right decision. Listen to your intuition,</span> and move forward with this risk-free opportunity now - before it's no longer available!</p>
     </div>
-    <div id="order-area">
-        <img class="order-img" src="../img/paa-cover.png">
-        <div class="order-form">
-            <h2 class="order-title">Receive Your Premium Archetypal Analysis For Just $37.00</h2>
-                <table class="order-details">
-                    <tbody>
-                        <tr class="details">
-                            <td class="right">Name:</td>
-                            <td class="left"><span aweber-field="name">Name</span></td>
-                        </tr>
-                        <tr class="details">
-                            <td class="right">Email:</td>
-                            <td class="left"><span aweber-field="email">Email</td>
-                        </tr>
-                        <tr class="details">
-                            <td class="right">Archetype:</td>
-                            <td class="left"><span aweber-field="archetype">Archetype</span></td>
-                        </tr>
-                    </tbody>
-                </table>
-            <a class="cta-button" href="#">Click Here To Order Now</a>
-            <div class="order-footer">
-            After clicking on the "Order Now" button, you will be taken to a secure checkout area to reserve and purchase this premium product. Once again, your purchase is protected by our 60-Day Money-Back Guarantee.
-            </div>
-        </div>
-    </div>
+    
+    <?php
+    include '../inc/order.php';
+    ?>
 
     <?php
     include '../inc/faq.php';
