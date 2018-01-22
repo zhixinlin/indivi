@@ -118,7 +118,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, do not be alarmed - this is all part and parcel of what it means to be a <span class="purple">Magician</span>. And with your Archetypal Introduction, all of that will soon change.</p>
 
-        <p>The sooner you're aware of your struggles and weaknesses, the sooner you'll be able to experience the <span class="purple">wonders and greatness</span> that it has to offer.  working on that aspect of your personality will, in fact, reveal a part of your archetype that you never knew existed.</p>
+        <p>The sooner you're aware of your struggles and weaknesses, the sooner you'll be able to experience the <span class="purple">wonders and greatness</span> that it has to offer. Working on that aspect of your personality will, in fact, reveal a part of your archetype that you never knew existed.</p>
 
         <p><span aweber-field="name">Friend</span>, it's important to understand that all archetypes has its fair share of <span class="purple">weaknesses and challenges</span>. Now that you're aware of them, you'll be able to pay attention to them, and then improve on them.</p>
 
