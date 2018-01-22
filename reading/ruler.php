@@ -44,7 +44,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, the Ruler archetype is best defined by its <span class="purple">innate ability to lead.</span> While others tend to avoid playing the role of a leader, Rulers are absolutely comfortable with <span class="purple">volunteering to take charge.</span></p>
             
-        <p> It's important to note that it's not the desire to lead that defines the Ruler archetype, but the actual quality of leadership that you are able to administer</p>
+        <p>It's important to note that it's not the desire to lead that defines the Ruler archetype, but the actual quality of leadership that you are able to administer.</p>
         
         <p>Truth be told, the Ruler archetype is not merely one-dimensional. It has many different sides and faces, and as we progress through this <span class="purple">Archetypal Introduction</span>, you'll begin to understand what I mean. But before we proceed, please do so with with an open mind, and a willing heart.</p>
 
@@ -63,7 +63,7 @@ include ('../inc/header.php');
         
         <p>More often than not, you leverage on your leadership qualities to attain <span class="purple">higher personal goals,</span> be it for their family, friends, or your community 0 and not for senseless or selfish reasons.</p> 
         
-        <p>If there's anyone who's capable of pulling that off, it's you, and you know that as well.></p>
+        <p>If there's anyone who's capable of pulling that off, it's you, and you know that as well.</p>
         
         <p>Others find themselves drawn to you because of your <span class="purple">assertive and decisive personality.</span>  Within your group of friends, you are often the one calling the shots and organizing outings and gatherings... A trait that others find alluring and attractive about you.</p>
         
@@ -120,7 +120,7 @@ include ('../inc/header.php');
 
         <p>The Ruler archetype tends to struggle with <span class="purple">spreading itself too thin.</span> At times, it might feel like you're needed everywhere all at once. It's likely that thoughts of cloning yourself or splitting yourself in half have crossed your mind.</p>
             
-        <p>That challenge often stems from your refusal to seek help from others, perhaps from a lack of trust in the people around you..
+        <p>That challenge often stems from your refusal to seek help from others, perhaps from a lack of trust in the people around you.</p>
         
         <p><span aweber-field="name">Friend</span>, that challenge originates from a deeper fear that resides within you... and that is your fear of <span class="purple">losing control.</span></p>
                 
@@ -136,7 +136,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, it's important to understand that all archetypes has its fair share of <span class="purple">weaknesses and challenges</span>. Now that you're aware of them, you'll be able to pay attention to them, and then improve on them.</p>
 
-        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As An Ruler, This Is Your Calling...</h2>
+        <h2 class="sub-header"><span aweber-field="name">Friend</span>, As A Ruler, This Is Your Calling...</h2>
 
         <p><span aweber-field="name">Friend</span>, you are an excellent mediator when it comes to managing expectations – those from yourself, and from others. You’re always able to <span class="purple">maintain order</span> through your sense of understanding what people want..</p> 
         
@@ -144,7 +144,7 @@ include ('../inc/header.php');
 
         <p>Your talents in discerning right from wrong allows you to concuct fair solutions that are beneficial to all parties involved.</p>
 
-        <p>Your calling in life will revolve primarily around those traits, <span aweber-field="name">Friend</span>. As long as you're able to be in a position where you're able ot make fair decisions and provide others with direction, you will find the fulfillment that you seek.</p>
+        <p>Your calling in life will revolve primarily around those traits, <span aweber-field="name">Friend</span>. As long as you're able to be in a position where you're able to make fair decisions and provide others with direction, you will find the fulfillment that you seek.</p>
 
         <p><span aweber-field="name">Friend</span>, but you must always remember that your sense of self-worth is not determined by your <span class="purple">ability to lead or to rule.</span> In fact, it is important for you to disassociate it completely from your identity.</p>
         
