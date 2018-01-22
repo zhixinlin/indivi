@@ -48,9 +48,9 @@ include ('../inc/header.php');
 
         <p>Truth be told, the Outlaw archetype is not merely one-dimensional. It has many different sides and faces, and as we progress through this <span class="purple">Archetypal Introduction</span>, you'll begin to understand what I mean. But before we proceed, please do so with with an open mind, and a willing heart.</p>
 
-        <p><span aweber-field="name">Friend</span>, The Outlaw archetype is one that tends to <span class="purple">go against the great.</span> You're often challenging <span class="purple">the rules and conventions of societal expectations and governmental control.</span></p>
+        <p><span aweber-field="name">Friend</span>, The Outlaw archetype is one that tends to <span class="purple">go against the grain.</span> You're often challenging the <span class="purple">rules and conventions</span> of societal expectations and governmental control.</p>
 
-        <p>You're able to <span class="purple">speak with conviction about the things that you're passionate about,</span> and that often includes <span class="purple">ultimate freedom and rebelling against authority.</span></p>
+        <p>You're able to <span class="purple">speak with conviction</span> about the things that you're passionate about, and that often includes <span class="purple">ultimate freedom and rebelling against authority.</span></p>
 
         <p>But what really sets you apart is your <span class="purple">passion for charitable causes and movements...</span> Whether it's providing stray animals with a home, raising orphans, or building shelters in struggling areas.</p>
 
@@ -73,7 +73,7 @@ include ('../inc/header.php');
 
         <p>Your stance is grounded with conviction, and you have no qualms with putting naysayers in their place. And that conviction is articulated with <span class="purple">your passion for the helpless and the hopeless.</span></p>
 
-        <p><span aweber-field="name">Friend</span>, in more ways than on, you have a strong sense of mission - an agent of change, if you will. That stems from your firm belief in the fact that <span class="purple">everyone is born equal</span>. And you will do whatever it takes to make it so.</p>
+        <p><span aweber-field="name">Friend</span>, in more ways than one, you have a strong sense of mission - an agent of change, if you will. That stems from your firm belief in the fact that <span class="purple">everyone is born equal</span>. And you will do whatever it takes to make it so.</p>
 
         <p>The Outlaw archetype has a deep-seated <span class="purple">connection to the feeble and forgotten.</span> You represent their voice, as well as the need for change in the world.</p>
             
@@ -87,7 +87,7 @@ include ('../inc/header.php');
 
         <p>Although you portray yourself as someone relentless and tough, there is a big part of you that's filled with <span class="purple">kindness and gentleness</span> - a trait that really shows in your interaction with your love for the people in need of help.</p>
 
-        <p><span aweber-field="name">Friend</span>, your extreme personality attracts others who are like-minded and share the same sentiments. There's likely only a <span class="purple">limited number of people</span> that you choose to spend most of your time with.
+        <p><span aweber-field="name">Friend</span>, your extreme personality attracts others who are like-minded and share the same sentiments. There's likely only a <span class="purple">limited number of people</span> that you choose to spend most of your time with.</p>
             
         <p>That's because you're intolerant of <span class="purple">bigotry, selfishness, and the slightest hint of a discriminatory tone.</span></p>
         
@@ -124,7 +124,7 @@ include ('../inc/header.php');
             
         <p>It's likely that you find the same questions repeating in your head, <span aweber-field="name">Friend</span>... About someone else's ulterior motives, about someone else's phony and artificial beliefs, about someone else's trustworthiness as a whole.</p>
         
-        <p><span aweber-field="name">Friend</span>, that fear of your originates from a deeper fear that resides within you... and that is your fear of <span class="purple">being vulnerable</span>.</p> 
+        <p><span aweber-field="name">Friend</span>, that fear of yours originates from a deeper fear that resides within you... and that is your fear of <span class="purple">being vulnerable</span>.</p> 
                 
         <p>Perhaps past experiences of betrayal have made you weary of trusting others. However, trust is an important element in life, and an element that you must learn once more in due time.</p>
         
