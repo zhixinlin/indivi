@@ -100,7 +100,7 @@ include ('../inc/header.php');
 
         <img class="img-intext" src="../img/sailing.png">
 
-        <p>However, I have no doubt that with your <span class="purple">strenghts, resilience, and fortitude</span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
+        <p>However, I have no doubt that with your <span class="purple">strengths, resilience, and fortitude</span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
 
         <p>You see, <span aweber-field="name">Friend</span>, despite your brave frontier, there are fears that reside within your archetype... Deep-seated fears that appear miniscule to others, but appear menacing to you.</p>
 

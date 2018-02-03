@@ -92,7 +92,7 @@ include ('../inc/header.php');
 
         <img class="img-intext" src="../img/sailing.png">
 
-        <p>However, I have no doubt that with your <span class="purple">strenghts and personality traits, </span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
+        <p>However, I have no doubt that with your <span class="purple">strengths and personality traits, </span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
 
         <p>The Jester archetype tends to struggle with <span class="purple">being serious.</span> That is, of course, just part of who you are - as an archetype, and as an individual. However, you must know, <span aweber-field="name">Friend</span>, that attribute about you also shapes the way that others perceive you, <span class="purple">especially the people close to you.</span></p>
 

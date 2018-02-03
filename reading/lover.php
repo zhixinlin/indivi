@@ -92,7 +92,7 @@ include ('../inc/header.php');
 
         <img class="img-intext" src="../img/sailing.png">
 
-        <p>However, I have no doubt that with your <span class="purple">strenghts and personality traits, </span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
+        <p>However, I have no doubt that with your <span class="purple">strengths and personality traits, </span>, you will overcome all that stands in your way, <span aweber-field="name">Friend</span>.</p>
 
         <p>The Lover archetype tends to struggle with <span class="purple">its need to be accepted.</span> And that drives you to resort to extensive measures to impress others, <span aweber-field="name">Friend</span>. And that's also indicative of a deeper fear that resides within you, <span aweber-field="name">Friend</span>... The fear of <span class="purple">being rejected, or alone.</span></p>
 
@@ -100,7 +100,7 @@ include ('../inc/header.php');
 
         <p><span aweber-field="name">Friend</span>, do not be alarmed - this is all part and parcel of what it means to be a <span class="purple">Lover</span>. And with your Archetypal Introduction, all of that will soon change.</p>
 
-        <p>The sooner you're aware of your struggles and weaknesses, the sooner you'll be able to experience the <span class="purple">wonders and greatness</span> that it has to offer.  working on that aspect of your personality will, in fact, reveal a part of your archetype that you never knew existed.</p>
+        <p>The sooner you're aware of your struggles and weaknesses, the sooner you'll be able to experience the <span class="purple">wonders and greatness</span> that it has to offer. Working on that aspect of your personality will, in fact, reveal a part of your archetype that you never knew existed.</p>
 
         <p>Based on your other traits, <span aweber-field="name">Friend</span>, you also seem to struggle with <span class="purple">setting yourself up for disappointments</span>. You have the tendency to expect a little too much for others, and you end up feeling dejected if your expectations are not met.</p>
 

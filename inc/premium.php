@@ -39,9 +39,9 @@
 
         <p>And it's all made possible with your <span class="purple">Premium Archetypal Analysis</span> - an exhaustive examination of every single element of your personality...</p>
 
-        <p><span aweber-field="name">Friend</span>, this is a report that's extremely detailed, and of course, highly intimate...</p>
+        <p><span aweber-field="name">Friend</span>, this is an analysis that's extremely detailed, and of course, highly intimate...</p>
 
-        <p>...Within that report lies an experience like no other...</p>
+        <p>...Within this extraordinary analysis lies an experience like no other...</p>
 
         <p>An experience of enlightenment, wisdom, and life-changing insights.
 
@@ -89,9 +89,9 @@
 
         <p>The answers to all of your life’s questions, to all of your life’s complications, to all of your life’s encounters, failures, and successes, can be found within your Premium Archetypal Analysis, <span aweber-field="name">Friend</span>...</p>
 
-        <p>If you’re unsure of the path that you’re currently on, this report will help you navigate your way to your goals and ambitions.</p>
+        <p>If you’re unsure of the path that you’re currently on, your Premium Archetypal Analysis will help you navigate your way to your goals and ambitions.</p>
 
-        <p>If you’re wondering whether your actions are right or wrong, this report will grant you unquestionable direction.</p>
+        <p>If you’re wondering whether your actions are right or wrong, this analysis will grant you unquestionable direction.</p>
 
         <p>If the people around you are holding you back, this report will give you all clarity you need.</p>
 
@@ -128,7 +128,7 @@
 
         <p>Every single word of the Premium Archetypal Analysis has been written by hand. It contains only the most <span class="purple">important, beneficial and applicable information</span> about you, and your archetype.</p>
 
-        <p>Years of thought have gone into every single sentence. Years of constant editing and corrections have gone into perfecting each paragraph. Years of research have gone into the contents of this report.</p>
+        <p>Years of thought have gone into every single sentence. Years of constant editing and corrections have gone into perfecting each paragraph. Years of research have gone into the contents of this analysis.</p>
 
         <p>It’s been completely personalized for you, and <span class="purple">only you.</span></p>
 
@@ -157,7 +157,7 @@
 
         <p>What's more, <span aweber-field="name">Friend</span>, is that this journey is completely unique to you.</p>
 
-        <p>Think of this report as a silent guardian that watches over you... Almost as if it's <span class="purple">constantly nudging you in the right the direction</span> with its comprehensive insights, and enlightening information.</p>
+        <p>Think of this analytical report as a silent guardian that watches over you... Almost as if it's <span class="purple">constantly nudging you in the right the direction</span> with its comprehensive insights, and enlightening information.</p>
 
         <p>Imagine being able to <span class="purple">flawlessly navigate</span> your way through the treacherous waters of life...</p>
 
@@ -231,7 +231,7 @@
 
         <p>Now, you're ready to move forward, <span aweber-field="name">Friend</span>. To commence your rewarding, Individuation journey of self-discovery and infinite guidance, all you have to do is click on the "Order Now" button below.</p>
 
-        <p>Not many of us are lucky enough to have experienced <span class="purple">the joy of knowing your true identity</span>, but that’s what your Premium Archetypal Report is going to help you find.</p>
+        <p>Not many of us are lucky enough to have experienced <span class="purple">the joy of knowing your true identity</span>, but that’s what your Premium Archetypal Analysis is going to help you find.</p>
 
         <img class="img-intext" src="../img/paa-cover.png">
 
@@ -245,32 +245,10 @@
 
         <p>This is it, <span aweber-field="name">Friend</span>... After <span class="purple">clicking the "Order Now" button,</span> it's all hands on deck as we sail through the seas of your amazing archetype! I have no doubt that you'll be compelled to <span class="purple">make the right decision. Listen to your intuition,</span> and move forward with this risk-free opportunity now - before it's no longer available!</p>
     </div>
-    <div id="order-area">
-        <img class="order-img" src="../img/paa-cover.png">
-        <div class="order-form">
-            <h2 class="order-title">Receive Your Premium Archetypal Analysis For Just $37.00</h2>
-                <table class="order-details">
-                    <tbody>
-                        <tr class="details">
-                            <td class="right">Name:</td>
-                            <td class="left"><span aweber-field="name">Name</span></td>
-                        </tr>
-                        <tr class="details">
-                            <td class="right">Email:</td>
-                            <td class="left"><span aweber-field="email">Email</td>
-                        </tr>
-                        <tr class="details">
-                            <td class="right">Archetype:</td>
-                            <td class="left"><span aweber-field="archetype">Archetype</span></td>
-                        </tr>
-                    </tbody>
-                </table>
-            <a class="cta-button" href="#">Click Here To Order Now</a>
-            <div class="order-footer">
-            After clicking on the "Order Now" button, you will be taken to a secure checkout area to reserve and purchase this premium product. Once again, your purchase is protected by our 60-Day Money-Back Guarantee.
-            </div>
-        </div>
-    </div>
+    
+    <?php
+    include '../inc/order.php';
+    ?>
 
     <div id="fb-comments">
       <div class="fb-comments-title">
