@@ -1,9 +1,8 @@
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 3000) {
+$(document).on('scroll', function() {
+    if( $(this).scrollTop() >= $('.sales-reading').position().top ){
         $('#floating-cta').fadeIn();
-    } else {
+    }
+    else {
         $('#floating-cta').fadeOut();
     }
-
 });

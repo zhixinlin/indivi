@@ -1,14 +1,6 @@
-<div id="floating-cta">
-  <div class="wrapper">
-    <div class="img-container">
-      <img src="../img/paa-cover.png">
-    </div>
-    <div class="floating-text">
-      <p><strong><span>{name}</span>, Your Copy Of The Premium Archetypal Analysis Has Been <span class="purple">Reserved!</span> Join Us On This Journey For <span class="purple">Just $37.00</strong>!</span></p>
-      <p><a class="cta-button" href="#">Encounter My Archetype</a></p>
-    </div>
-  </div>
-</div>
+<?php
+include '../inc/floating-cta.php';
+?>
 
 <div class="sales-reading">
     <h2 class="sub-header">Before we end this miniature reading, <span aweber-field="name">Friend</span>, I wanted to let you know that there's so much left to explore in your <span class="purple">Archetypal Profile...</span></h2>
@@ -245,7 +237,7 @@
 
         <p>This is it, <span aweber-field="name">Friend</span>... After <span class="purple">clicking the "Order Now" button,</span> it's all hands on deck as we sail through the seas of your amazing archetype! I have no doubt that you'll be compelled to <span class="purple">make the right decision. Listen to your intuition,</span> and move forward with this risk-free opportunity now - before it's no longer available!</p>
     </div>
-    
+
     <?php
     include '../inc/order.php';
     ?>

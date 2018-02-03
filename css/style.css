@@ -2,13 +2,13 @@
     position: fixed;
     width: 50%;
     bottom: 0;
-    height: 200px;
+    height: auto;
     right: 0;
     background: #fff;
     border-top: 4px solid purple;
     border-left: 2px solid purple;
     z-index: 1;
-    box-shadow: 0 0 20px #fff;
+    box-shadow: 0 0 20px #000;
     border-top-left-radius: 10px;
     display: none;
   }
@@ -19,11 +19,16 @@
   }
 
   .floating-text {
-    width: 60%;
+    width: 50%;
     float: right;
+    margin: 1em;
     position: relative;
-    margin: 20px;
-    display: inline-block;
+    display: block;
+  }
+  .floating-text h3{
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 700;
   }
   .floating-text p {
     line-height: 1.5em;
@@ -45,8 +50,8 @@
     width: 30%;
     position: relative;
     float: left;
-    display: inline-block;
-    top: 0px;
+    display: block;
+    margin: 1em;
     clear: both;
     text-align: center;
   }
@@ -548,7 +553,11 @@ padding: 0 18px;
         }
         .floating-text {
           float: none;
+          position: relative;
+          margin: 0 auto;
           width: 80%;
+        }
+        .floating-text p, .floating-text h3 {
           text-align: center;
         }
         #archetype-wheel {
