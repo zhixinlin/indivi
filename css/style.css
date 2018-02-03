@@ -1,3 +1,91 @@
+  #floating-cta {
+    position: fixed;
+    width: 50%;
+    bottom: 0;
+    height: 200px;
+    right: 0;
+    background: #fff;
+    border-top: 4px solid purple;
+    border-left: 2px solid purple;
+    z-index: 1;
+    box-shadow: 0 0 20px #fff;
+    border-top-left-radius: 10px;
+    display: none;
+  }
+  .wrapper {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+  }
+
+  .floating-text {
+    width: 60%;
+    float: right;
+    position: relative;
+    margin: 20px;
+    display: inline-block;
+  }
+  .floating-text p {
+    line-height: 1.5em;
+    text-align: left;
+    font-size: 1em;
+  }
+  .floating-text a {
+    font-family: 'Raleway', 'sans-serif';
+    font-size: 1.3em;
+    position: relative;
+    margin: 0 auto;
+  }
+  .img-container img {
+    width: 80%;
+    filter: drop-shadow(2px 2px 5px #000);
+    margin: 20px;
+  }
+  .img-container {
+    width: 30%;
+    position: relative;
+    float: left;
+    display: inline-block;
+    top: 0px;
+    clear: both;
+    text-align: center;
+  }
+
+    #fb-comments {
+      width: 80%;
+margin: 0 auto;
+position: relative;
+display: block;
+clear: both;
+text-align: center;
+border-top: 3px solid #c70a8d;
+background: #ffffffc9;
+box-shadow: 0 0 20px #fff;
+border-radius: 10px;
+    }
+    .fb-comments-title {
+  background: #904be6;
+  font-weight: 100;
+  color: #fff;
+  border-radius: 5px;
+  width: 80%;
+  margin: 20px auto;
+  padding: 1em;
+  display: block;
+  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+    }
+    .fb-comments-title:before {
+      content: "";
+    display: inline-block;
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    transform: rotate(45deg);
+    left: 50%;
+    left: calc(50% - 1.41em / 2);
+    bottom: -15px;
+    background: #904be6;
+    }
     html {
         width: 100%;
         margin: 0;
@@ -391,9 +479,19 @@
     transform-origin:center center;
   }
 
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+@keyframes spin {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    }
+    to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    }
+  }
 
     /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
@@ -441,6 +539,18 @@ padding: 0 18px;
     content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
     @media only screen and (max-width: 720px) {
+        #floating-cta {
+          width: 100%;
+          height: auto;
+        }
+        .img-container {
+          display: none;
+        }
+        .floating-text {
+          float: none;
+          width: 80%;
+          text-align: center;
+        }
         #archetype-wheel {
           display: none;
         }

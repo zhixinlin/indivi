@@ -1,3 +1,15 @@
+<div id="floating-cta">
+  <div class="wrapper">
+    <div class="img-container">
+      <img src="../img/paa-cover.png">
+    </div>
+    <div class="floating-text">
+      <p><strong><span>{name}</span>, Your Copy Of The Premium Archetypal Analysis Has Been <span class="purple">Reserved!</span> Join Us On This Journey For <span class="purple">Just $37.00</strong>!</span></p>
+      <p><a class="cta-button" href="#">Encounter My Archetype</a></p>
+    </div>
+  </div>
+</div>
+
 <div class="sales-reading">
     <h2 class="sub-header">Before we end this miniature reading, <span aweber-field="name">Friend</span>, I wanted to let you know that there's so much left to explore in your <span class="purple">Archetypal Profile...</span></h2>
 
@@ -258,6 +270,13 @@
             After clicking on the "Order Now" button, you will be taken to a secure checkout area to reserve and purchase this premium product. Once again, your purchase is protected by our 60-Day Money-Back Guarantee.
             </div>
         </div>
+    </div>
+
+    <div id="fb-comments">
+      <div class="fb-comments-title">
+        <h2>What Archetype Did you Get? Let Us Know In The Comments Below!</h2>
+      </div>
+      <p>Comments Go Here</p>
     </div>
 
     <?php

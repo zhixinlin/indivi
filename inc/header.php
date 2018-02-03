@@ -21,8 +21,10 @@
 
     <!-- Custom styles and scripts -->
     <link rel="stylesheet" href="../css/style.css">
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
 
 <body>
-  <div id="archetype-wheel"></div>
+  <div id="archetype-wheel">
+    <img src="../img/archetype-wheel.png">
+  </div>
